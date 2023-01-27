@@ -1,0 +1,183 @@
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.pageTitle {
+    position: absolute;
+    width: 194px;
+    height: 25px;
+    left: 32px;
+    top: 8px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #000000;
+}
+
+img {
+    position: absolute;
+    width: 238px;
+    height: 170px;
+    left: 76px;
+    top: 96px;
+
+    background: url(3d-illustration-red-locator-sign-map.jpg);
+}
+
+.title {
+    position: absolute;
+    width: 209px;
+    height: 16px;
+    left: 91px;
+    top: 276px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 16px;
+
+    letter-spacing: 0.4px;
+
+    color: #000000;
+}
+
+.warning img {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 17px;
+    top: 350px;
+}
+
+.warning p {
+    position: absolute;
+    width: 323px;
+    height: 16px;
+    left: 50px;
+    top: 343px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 16px;
+
+    letter-spacing: 0.4px;
+
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.card-body {
+    position: absolute;
+    width: 358px;
+    height: 64px;
+    left: 16px;
+    top: 404px;
+}
+
+.card-body select {
+    box-sizing: border-box;
+    
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 12px;
+    padding-left: 12px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.5px;
+
+    color: rgba(0, 0, 0, 0.5);
+
+}
+
+.UFTextField {
+    position: absolute;
+    width: 358px;
+    height: 64px;
+}
+
+.UFTextFieldHelp {
+    position: absolute;
+    width: 165px;
+    height: 16px;
+    left: 20px;
+    top: 58px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height, or 133% */
+
+    letter-spacing: 0.4px;
+
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.municipioTextField {
+    position: absolute;
+    width: 358px;
+    height: 64px;
+    top: 108px;
+}
+
+.municipioTextFieldHelp {
+    position: absolute;
+    width: 300px;
+    height: 16px;
+    left: 20px;
+    top: 164px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height, or 133% */
+
+    letter-spacing: 0.4px;
+
+    color: rgba(0, 0, 0, 0.7);
+}
+
+button {
+    position: absolute;
+    width: 358px;
+    height: 52px;
+    left: 16px;
+    top: 630px;
+
+    background: #1F64B4;
+    border-radius: 999px;
+    border-width: 0px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    letter-spacing: 0.5px;
+
+    color: #FFFFFF;
+}
+
+.progress {
+    position: absolute;
+    width: 114px;
+    height: 28px;
+    left: 138px;
+    top: 782px;
+}

@@ -1,0 +1,113 @@
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    align-items: center;
+    text-align: center;
+    width: 390px;
+}
+
+.profilePic {
+    margin-left: 84px;
+    margin-top: 32px;
+    width: 216px;
+    height: 216px;
+    border-radius: 999px;
+}
+
+.title {
+    position: relative;
+    text-align: left;
+    margin-left: 16px;
+    margin-top: 24px;
+
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 33px;
+}
+
+.subtitle {
+    position: relative;
+    text-align: left;
+    margin-left: 16px;
+    
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+}
+
+.container-fluid {
+    position: relative;
+    width: 100%;
+    margin-top: 16px;
+}
+
+.container-fluid input {
+    box-sizing: border-box;
+
+    margin-top: 16px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 12px;
+    height: 64px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    letter-spacing: 0.5px;
+}
+
+.nomeTextField {
+    width: 90%;
+    padding-left: 24px;
+}
+
+.emailTextField {
+    width: 90%;
+    padding-left: 24px;
+}
+
+.imgField {
+    width: 90%;
+    border: none;
+    padding-top: 16px;
+}
+
+.entrar {
+    position: relative;
+    width: 90%;
+    height: 52px;
+    margin-top: 12px;
+
+    background: #1F64B4;
+    border-radius: 999px;
+    border: 0px;
+
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+
+    color: #FFFFFF;
+}
+
+
+a {
+    box-sizing: border-box;
+    position: relative;
+    top: 52px;
+
+    width: 90%;
+    height: 52px;
+
+    border: 2px solid #1F64B4;
+    border-radius: 999px;
+
+    padding: 16px 37.5% 16px 37.5%;
+    font-weight: 400;
+    font-size: 14px;
+
+    text-align: center;
+    letter-spacing: 0.5px;
+
+    color: #1F64B4;
+}

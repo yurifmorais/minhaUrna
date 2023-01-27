@@ -1,0 +1,116 @@
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.pageTitle {
+    position: relative;
+    margin-top: 20px;
+    margin-left: 16px;
+    text-align: left;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #000000;
+}
+
+img {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 39px;
+    top: 256px;
+}
+
+.card-body select {
+    box-sizing: border-box;
+    
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 12px;
+    padding-left: 12px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.5px;
+
+    color: rgba(0, 0, 0, 0.5);
+
+}
+
+.UFField {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 102px;
+    height: 48px;
+    left: 14px;
+    top: 298px;
+
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+
+}
+
+.municipioField {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 251px;
+    height: 48px;
+    left: 123px;
+    top: 298px;
+
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+}
+
+.zonas p { 
+    position: absolute;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    margin-left: 28px;
+    margin-top: -24px;
+    margin-bottom: 500px;
+    width: 71px;
+    height: 18px;
+}
+
+.zonas a{
+    box-sizing: border-box;
+    width: 360px;
+    position: absolute;
+    text-align: left;
+    width: 360px;
+    height: 87px;
+    left: 14px;
+    padding-left: 20px;
+    padding-top: 42px;
+    margin-top: -48px;
+    margin-bottom: -56px;
+
+    background: transparent;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 24px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    text-decoration: none;
+ 
+    color: #000000;
+}

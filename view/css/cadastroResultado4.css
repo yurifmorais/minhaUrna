@@ -1,0 +1,157 @@
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.pageTitle {
+    position: absolute;
+    width: 194px;
+    height: 25px;
+    left: 32px;
+    top: 8px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #000000;
+}
+
+img {
+    position: absolute;
+    width: 308px;
+    height: 175px;
+    left: 41px;
+    top: 94px;
+
+
+    background: url(30969010_m003t0476_d_chair_14jun22.jpg);
+    border-radius: 999px;
+}
+
+.title {
+    position: absolute;
+    width: 263px;
+    height: 16px;
+    left: 64px;
+    top: 276px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 16px;
+
+    letter-spacing: 0.4px;
+
+    color: #000000;
+}
+
+.warning img {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 17px;
+    top: 350px;
+}
+
+.warning p {
+    position: absolute;
+    width: 323px;
+    height: 16px;
+    left: 50px;
+    top: 334px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 16px;
+
+    letter-spacing: 0.4px;
+
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.card-body {
+    position: absolute;
+    width: 358px;
+    height: 64px;
+    left: 16px;
+    top: 412px;
+}
+
+.card-body select {
+    box-sizing: border-box;
+    
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 12px;
+    padding-left: 12px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.5px;
+
+    color: rgba(0, 0, 0, 0.5);
+
+}
+
+.form-group input {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 358px;
+    height: 52px;
+
+    border: 2px solid #134074;
+    border-radius: 999px;
+    padding: 12px;
+    padding-left: 17px;
+
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.5px;
+}
+
+button {
+    position: absolute;
+    width: 358px;
+    height: 52px;
+    left: 16px;
+    top: 630px;
+
+    background: #1F64B4;
+    border-radius: 999px;
+    border-width: 0px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    letter-spacing: 0.5px;
+
+    color: #FFFFFF;
+}
+
+.progress {
+    position: absolute;
+    width: 114px;
+    height: 28px;
+    left: 138px;
+    top: 782px;
+}

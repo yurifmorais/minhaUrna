@@ -1,0 +1,110 @@
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    align-items: center;
+    text-align: center;
+    width: 390px;
+}
+
+img {
+    position: relative;
+    width: 231px;
+    height: 225px;
+    left: 78px;
+    top: 48px;
+
+    background: url(computer-security-with-login-password-padlock.jpg);
+}
+
+.title {
+    position: relative;
+    text-align: left;
+    margin-left: 16px;
+    margin-top: 56px;
+
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 33px;
+}
+
+.subtitle {
+    position: relative;
+    text-align: left;
+    margin-left: 16px;
+    
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+}
+
+form {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+input {
+    width: 64px;;
+}
+
+form p {
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 16px;
+    margin-left: 20px;
+    margin-top: 12px;
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.5px;
+    color: white;
+}
+
+.comum {
+    box-sizing: border-box;
+    float: left;
+    width: 172px;
+    height: 188px;
+
+    background: linear-gradient(180deg, #88ABD4 0%, #2B6DB8 100%);
+    border-radius: 32px;
+    padding-top: 8px;
+}
+
+.admin {
+    box-sizing: border-box;
+    position: relative;
+    float: right;
+    width: 172px;
+    height: 188px;
+
+    background: linear-gradient(180deg, #8C8C8C 0%, #595959 100%);
+    border-radius: 32px;
+    padding-top: 8px;
+}
+
+label {
+    top: 12px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #FFFFFF;
+}
+
+.entrar {
+    position: relative;
+    width: 90%;
+    height: 52px;
+    margin-top: 64px;
+
+    background: #1F64B4;
+    border-radius: 999px;
+    border: 0px;
+
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+
+    color: #FFFFFF;
+}

@@ -1,0 +1,125 @@
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    align-items: center;
+    text-align: center;
+    width: 390px;
+}
+
+img {
+    position: relative;
+    width: 231px;
+    height: 225px;
+    left: 78px;
+    top: 48px;
+
+    background: url(computer-security-with-login-password-padlock.jpg);
+}
+
+.title {
+    position: relative;
+    text-align: left;
+    margin-left: 16px;
+    margin-top: 56px;
+
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 33px;
+}
+
+.subtitle {
+    position: relative;
+    text-align: left;
+    margin-left: 16px;
+    
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+}
+
+.container-fluid {
+    position: relative;
+    width: 90%;
+    margin-top: 24px;
+}
+
+.container-fluid input {
+    box-sizing: border-box;
+    
+    margin-top: 16px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 12px;
+    height: 64px;
+    padding-left: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    letter-spacing: 0.5px;
+}
+
+.passwordHelp {
+    color: #808080;
+}
+
+.entrar {
+    position: relative;
+    width: 82%;
+    height: 52px;
+    margin-top: 0px;
+
+    background: #1F64B4;
+    border-radius: 999px;
+    border: 0px;
+
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+
+    color: #FFFFFF;
+}
+
+.helpText {
+    position: relative;
+    text-align: center;
+    margin-top: 24px;
+
+    height: 24px;
+
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 24px;
+
+    align-items: center;
+    letter-spacing: 0.5px;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+
+a {
+    box-sizing: border-box;
+    position: relative;
+    top: 8px;
+
+    width: 98%;
+    height: 52px;
+
+    border: 2px solid #1F64B4;
+    border-radius: 999px;
+
+    padding: 16px 29.5% 16px 29.5%;
+    font-weight: 400;
+    font-size: 14px;
+
+    text-align: center;
+    letter-spacing: 0.5px;
+
+    color: #1F64B4;
+    }
+
+.invalid-feedback {
+    margin-bottom: -8px;
+    margin-left: 16px;
+}

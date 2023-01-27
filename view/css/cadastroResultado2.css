@@ -1,0 +1,257 @@
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.pageTitle {
+    position: absolute;
+    width: 194px;
+    height: 25px;
+    left: 32px;
+    top: 8px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #000000;
+}
+
+img {
+    position: absolute;
+    width: 186px;
+    height: 186px;
+    left: 99px;
+    top: 82px;
+
+    background: url(30969010_m003t0476_d_chair_14jun22.jpg);
+    border-radius: 999px;
+}
+
+.title {
+    position: absolute;
+    width: 240px;
+    height: 16px;
+    left: 75px;
+    top: 276px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 16px;
+
+    letter-spacing: 0.4px;
+
+    color: #000000;
+}
+
+.warning img {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 17px;
+    top: 350px;
+}
+
+.warning p {
+    position: absolute;
+    width: 323px;
+    height: 16px;
+    left: 50px;
+    top: 343px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 16px;
+
+    letter-spacing: 0.4px;
+
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.card-body {
+    position: absolute;
+    width: 358px;
+    height: 64px;
+    left: 16px;
+    top: 464px;
+}
+
+.card-body select {
+    box-sizing: border-box;
+    
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 12px;
+    padding-left: 12px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.5px;
+
+    color: rgba(0, 0, 0, 0.5);
+
+}
+
+.wrapper{
+    display: inline-flex;
+    font-style: normal;
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 15px;
+      margin-top: 8px;
+      position: absolute;
+      top: -72px;
+      left: 52px;
+  }
+  .wrapper .option{
+    background: #fff;
+    height: 100%;
+    width: 118px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 0 2px;
+    border-radius: 999px;
+    cursor: pointer;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid lightgrey;
+    transition: all 0.3s ease;
+  }
+  .wrapper .option .dot{
+    height: 20px;
+    width: 20px;
+    background: #d9d9d9;
+    border-radius: 50%;
+    position: relative;
+  }
+  .wrapper .option .dot::before{
+    position: absolute;
+    content: "";
+    top: 4px;
+    left: 4px;
+    width: 12px;
+    height: 12px;
+    background: #0069d9;
+    border-radius: 50%;
+    opacity: 0;
+    transform: scale(1.5);
+    transition: all 0.3s ease;
+  }
+  input[type="radio"]{
+    display: none;
+  }
+  #option-1:checked:checked ~ .option-1,
+  #option-2:checked:checked ~ .option-2{
+      
+    border-color: #0069d9;
+    background: #0069d9;
+  }
+  #option-1:checked:checked ~ .option-1 .dot,
+  #option-2:checked:checked ~ .option-2 .dot{
+    background: #fff;
+  }
+  #option-1:checked:checked ~ .option-1 .dot::before,
+  #option-2:checked:checked ~ .option-2 .dot::before{
+  
+      opacity: 1;
+    transform: scale(1);
+  }
+  .wrapper .option span{
+    color: #808080;
+  }
+  #option-1:checked:checked ~ .option-1 span,
+  #option-2:checked:checked ~ .option-2 span{
+    color: #fff;
+  }
+
+.zonaTextField {
+    position: absolute;
+    width: 358px;
+    height: 64px;
+}
+
+.zonaTextFieldHelp {
+    position: absolute;
+    width: auto;
+    height: 16px;
+    left: 20px;
+    top: 58px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height, or 133% */
+
+    letter-spacing: 0.4px;
+
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.secaoTextField {
+    position: absolute;
+    width: 358px;
+    height: 64px;
+    top: 108px;
+}
+
+.secaoTextFieldHelp {
+    position: absolute;
+    width: auto;
+    height: 16px;
+    left: 20px;
+    top: 164px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height, or 133% */
+
+    letter-spacing: 0.4px;
+
+    color: rgba(0, 0, 0, 0.7);
+}
+
+button {
+    position: absolute;
+    width: 358px;
+    height: 52px;
+    left: 16px;
+    top: 690px;
+
+    background: #1F64B4;
+    border-radius: 999px;
+    border-width: 0px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    letter-spacing: 0.5px;
+
+    color: #FFFFFF;
+}
+
+.progress {
+    position: absolute;
+    width: 114px;
+    height: 28px;
+    left: 138px;
+    top: 782px;
+}
