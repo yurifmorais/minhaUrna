@@ -1,0 +1,5570 @@
+﻿1;21;Alta Floresta D´oeste
+2;21;Ariquemes
+3;21;Cabixi
+4;21;Cacoal
+5;21;Cerejeiras
+6;21;Colorado do Oeste
+7;21;Corumbiara
+8;21;Costa Marques
+9;21;Espigão D´oeste
+10;21;Guajará-mirim
+11;21;Jaru
+12;21;Ji-paraná
+13;21;Machadinho D´oeste
+14;21;Nova Brasilândia D´oeste
+15;21;Ouro Preto do Oeste
+16;21;Pimenta Bueno
+17;21;Porto Velho
+18;21;Presidente Médici
+19;21;Rio Crespo
+20;21;Rolim de Moura
+21;21;Santa Luzia D´oeste
+22;21;Vilhena
+23;21;São Miguel do Guaporé
+24;21;Nova Mamoré
+25;21;Alvorada D´oeste
+26;21;Alto Alegre Dos Parecis
+27;21;Alto Paraíso
+28;21;Buritis
+29;21;Novo Horizonte do Oeste
+30;21;Cacaulândia
+31;21;Campo Novo de Rondônia
+32;21;Candeias do Jamari
+33;21;Castanheiras
+34;21;Chupinguaia
+35;21;Cujubim
+36;21;Governador Jorge Teixeira
+37;21;Itapuã do Oeste
+38;21;Ministro Andreazza
+39;21;Mirante da Serra
+40;21;Monte Negro
+41;21;Nova União
+42;21;Parecis
+43;21;Pimenteiras do Oeste
+44;21;Primavera de Rondônia
+45;21;São Felipe D´oeste
+46;21;São Francisco do Guaporé
+47;21;Seringueiras
+48;21;Teixeirópolis
+49;21;Theobroma
+50;21;Urupá
+51;21;Vale do Anari
+52;21;Vale do Paraíso
+53;1;Acrelândia
+54;1;Assis Brasil
+55;1;Brasiléia
+56;1;Bujari
+57;1;Capixaba
+58;1;Cruzeiro do Sul
+59;1;Epitaciolândia
+60;1;Feijó
+61;1;Jordão
+62;1;Mâncio Lima
+63;1;Manoel Urbano
+64;1;Marechal Thaumaturgo
+65;1;Plácido de Castro
+66;1;Porto Walter
+67;1;Rio Branco
+68;1;Rodrigues Alves
+69;1;Santa Rosa do Purus
+70;1;Senador Guiomard
+71;1;Sena Madureira
+72;1;Tarauacá
+73;1;Xapuri
+74;1;Porto Acre
+75;3;Alvarães
+76;3;Amaturá
+77;3;Anamã
+78;3;Anori
+79;3;Apuí
+80;3;Atalaia do Norte
+81;3;Autazes
+82;3;Barcelos
+83;3;Barreirinha
+84;3;Benjamin Constant
+85;3;Beruri
+86;3;Boa Vista do Ramos
+87;3;Boca do Acre
+88;3;Borba
+89;3;Caapiranga
+90;3;Canutama
+91;3;Carauari
+92;3;Careiro
+93;3;Careiro da Várzea
+94;3;Coari
+95;3;Codajás
+96;3;Eirunepé
+97;3;Envira
+98;3;Fonte Boa
+99;3;Guajará
+100;3;Humaitá
+101;3;Ipixuna
+102;3;Iranduba
+103;3;Itacoatiara
+104;3;Itamarati
+105;3;Itapiranga
+106;3;Japurá
+107;3;Juruá
+108;3;Jutaí
+109;3;Lábrea
+110;3;Manacapuru
+111;3;Manaquiri
+112;3;Manaus
+113;3;Manicoré
+114;3;Maraã
+115;3;Maués
+116;3;Nhamundá
+117;3;Nova Olinda do Norte
+118;3;Novo Airão
+119;3;Novo Aripuanã
+120;3;Parintins
+121;3;Pauini
+122;3;Presidente Figueiredo
+123;3;Rio Preto da Eva
+124;3;Santa Isabel do Rio Negro
+125;3;Santo Antônio do Içá
+126;3;São Gabriel da Cachoeira
+127;3;São Paulo de Olivença
+128;3;São Sebastião do Uatumã
+129;3;Silves
+130;3;Tabatinga
+131;3;Tapauá
+132;3;Tefé
+133;3;Tonantins
+134;3;Uarini
+135;3;Urucará
+136;3;Urucurituba
+137;22;Amajari
+138;22;Alto Alegre
+139;22;Boa Vista
+140;22;Bonfim
+141;22;Cantá
+142;22;Caracaraí
+143;22;Caroebe
+144;22;Iracema
+145;22;Mucajaí
+146;22;Normandia
+147;22;Pacaraima
+148;22;Rorainópolis
+149;22;São João da Baliza
+150;22;São Luiz
+151;22;Uiramutã
+152;14;Abaetetuba
+153;14;Abel Figueiredo
+154;14;Acará
+155;14;Afuá
+156;14;Água Azul do Norte
+157;14;Alenquer
+158;14;Almeirim
+159;14;Altamira
+160;14;Anajás
+161;14;Ananindeua
+162;14;Anapu
+163;14;Augusto Corrêa
+164;14;Aurora do Pará
+165;14;Aveiro
+166;14;Bagre
+167;14;Baião
+168;14;Bannach
+169;14;Barcarena
+170;14;Belém
+171;14;Belterra
+172;14;Benevides
+173;14;Bom Jesus do Tocantins
+174;14;Bonito
+175;14;Bragança
+176;14;Brasil Novo
+177;14;Brejo Grande do Araguaia
+178;14;Breu Branco
+179;14;Breves
+180;14;Bujaru
+181;14;Cachoeira do Piriá
+182;14;Cachoeira do Arari
+183;14;Cametá
+184;14;Canaã Dos Carajás
+185;14;Capanema
+186;14;Capitão Poço
+187;14;Castanhal
+188;14;Chaves
+189;14;Colares
+190;14;Conceição do Araguaia
+191;14;Concórdia do Pará
+192;14;Cumaru do Norte
+193;14;Curionópolis
+194;14;Curralinho
+195;14;Curuá
+196;14;Curuçá
+197;14;Dom Eliseu
+198;14;Eldorado Dos Carajás
+199;14;Faro
+200;14;Floresta do Araguaia
+201;14;Garrafão do Norte
+202;14;Goianésia do Pará
+203;14;Gurupá
+204;14;Igarapé-açu
+205;14;Igarapé-miri
+206;14;Inhangapi
+207;14;Ipixuna do Pará
+208;14;Irituia
+209;14;Itaituba
+210;14;Itupiranga
+211;14;Jacareacanga
+212;14;Jacundá
+213;14;Juruti
+214;14;Limoeiro do Ajuru
+215;14;Mãe do Rio
+216;14;Magalhães Barata
+217;14;Marabá
+218;14;Maracanã
+219;14;Marapanim
+220;14;Marituba
+221;14;Medicilândia
+222;14;Melgaço
+223;14;Mocajuba
+224;14;Moju
+225;14;Mojuí dos Campos
+226;14;Monte Alegre
+227;14;Muaná
+228;14;Nova Esperança do Piriá
+229;14;Nova Ipixuna
+230;14;Nova Timboteua
+231;14;Novo Progresso
+232;14;Novo Repartimento
+233;14;Óbidos
+234;14;Oeiras do Pará
+235;14;Oriximiná
+236;14;Ourém
+237;14;Ourilândia do Norte
+238;14;Pacajá
+239;14;Palestina do Pará
+240;14;Paragominas
+241;14;Parauapebas
+242;14;Pau D´arco
+243;14;Peixe-boi
+244;14;Piçarra
+245;14;Placas
+246;14;Ponta de Pedras
+247;14;Portel
+248;14;Porto de Moz
+249;14;Prainha
+250;14;Primavera
+251;14;Quatipuru
+252;14;Redenção
+253;14;Rio Maria
+254;14;Rondon do Pará
+255;14;Rurópolis
+256;14;Salinópolis
+257;14;Salvaterra
+258;14;Santa Bárbara do Pará
+259;14;Santa Cruz do Arari
+260;14;Santa Isabel do Pará
+261;14;Santa Luzia do Pará
+262;14;Santa Maria Das Barreiras
+263;14;Santa Maria do Pará
+264;14;Santana do Araguaia
+265;14;Santarém
+266;14;Santarém Novo
+267;14;Santo Antônio do Tauá
+268;14;São Caetano de Odivelas
+269;14;São Domingos do Araguaia
+270;14;São Domingos do Capim
+271;14;São Félix do Xingu
+272;14;São Francisco do Pará
+273;14;São Geraldo do Araguaia
+274;14;São João da Ponta
+275;14;São João de Pirabas
+276;14;São João do Araguaia
+277;14;São Miguel do Guamá
+278;14;São Sebastião da Boa Vista
+279;14;Sapucaia
+280;14;Senador José Porfírio
+281;14;Soure
+282;14;Tailândia
+283;14;Terra Alta
+284;14;Terra Santa
+285;14;Tomé-açu
+286;14;Tracuateua
+287;14;Trairão
+288;14;Tucumã
+289;14;Tucuruí
+290;14;Ulianópolis
+291;14;Uruará
+292;14;Vigia
+293;14;Viseu
+294;14;Vitória do Xingu
+295;14;Xinguara
+296;4;Serra do Navio
+297;4;Amapá
+298;4;Pedra Branca do Amapari
+299;4;Calçoene
+300;4;Cutias
+301;4;Ferreira Gomes
+302;4;Itaubal
+303;4;Laranjal do Jari
+304;4;Macapá
+305;4;Mazagão
+306;4;Oiapoque
+307;4;Porto Grande
+308;4;Pracuúba
+309;4;Santana
+310;4;Tartarugalzinho
+311;4;Vitória do Jari
+312;27;Abreulândia
+313;27;Aguiarnópolis
+314;27;Aliança do Tocantins
+315;27;Almas
+316;27;Alvorada
+317;27;Ananás
+318;27;Angico
+319;27;Aparecida do Rio Negro
+320;27;Aragominas
+321;27;Araguacema
+322;27;Araguaçu
+323;27;Araguaína
+324;27;Araguanã
+325;27;Araguatins
+326;27;Arapoema
+327;27;Arraias
+328;27;Augustinópolis
+329;27;Aurora do Tocantins
+330;27;Axixá do Tocantins
+331;27;Babaçulândia
+332;27;Bandeirantes do Tocantins
+333;27;Barra do Ouro
+334;27;Barrolândia
+335;27;Bernardo Sayão
+336;27;Bom Jesus do Tocantins
+337;27;Brasilândia do Tocantins
+338;27;Brejinho de Nazaré
+339;27;Buriti do Tocantins
+340;27;Cachoeirinha
+341;27;Campos Lindos
+342;27;Cariri do Tocantins
+343;27;Carmolândia
+344;27;Carrasco Bonito
+345;27;Caseara
+346;27;Centenário
+347;27;Chapada de Areia
+348;27;Chapada da Natividade
+349;27;Colinas do Tocantins
+350;27;Combinado
+351;27;Conceição do Tocantins
+352;27;Couto de Magalhães
+353;27;Cristalândia
+354;27;Crixás do Tocantins
+355;27;Darcinópolis
+356;27;Dianópolis
+357;27;Divinópolis do Tocantins
+358;27;Dois Irmãos do Tocantins
+359;27;Dueré
+360;27;Esperantina
+361;27;Fátima
+362;27;Figueirópolis
+363;27;Filadélfia
+364;27;Formoso do Araguaia
+365;27;Fortaleza do Tabocão
+366;27;Goianorte
+367;27;Goiatins
+368;27;Guaraí
+369;27;Gurupi
+370;27;Ipueiras
+371;27;Itacajá
+372;27;Itaguatins
+373;27;Itapiratins
+374;27;Itaporã do Tocantins
+375;27;Jaú do Tocantins
+376;27;Juarina
+377;27;Lagoa da Confusão
+378;27;Lagoa do Tocantins
+379;27;Lajeado
+380;27;Lavandeira
+381;27;Lizarda
+382;27;Luzinópolis
+383;27;Marianópolis do Tocantins
+384;27;Mateiros
+385;27;Maurilândia do Tocantins
+386;27;Miracema do Tocantins
+387;27;Miranorte
+388;27;Monte do Carmo
+389;27;Monte Santo do Tocantins
+390;27;Palmeiras do Tocantins
+391;27;Muricilândia
+392;27;Natividade
+393;27;Nazaré
+394;27;Nova Olinda
+395;27;Nova Rosalândia
+396;27;Novo Acordo
+397;27;Novo Alegre
+398;27;Novo Jardim
+399;27;Oliveira de Fátima
+400;27;Palmeirante
+401;27;Palmeirópolis
+402;27;Paraíso do Tocantins
+403;27;Paranã
+404;27;Pau D´arco
+405;27;Pedro Afonso
+406;27;Peixe
+407;27;Pequizeiro
+408;27;Colméia
+409;27;Pindorama do Tocantins
+410;27;Piraquê
+411;27;Pium
+412;27;Ponte Alta do Bom Jesus
+413;27;Ponte Alta do Tocantins
+414;27;Porto Alegre do Tocantins
+415;27;Porto Nacional
+416;27;Praia Norte
+417;27;Presidente Kennedy
+418;27;Pugmil
+419;27;Recursolândia
+420;27;Riachinho
+421;27;Rio da Conceição
+422;27;Rio Dos Bois
+423;27;Rio Sono
+424;27;Sampaio
+425;27;Sandolândia
+426;27;Santa fé do Araguaia
+427;27;Santa Maria do Tocantins
+428;27;Santa Rita do Tocantins
+429;27;Santa Rosa do Tocantins
+430;27;Santa Tereza do Tocantins
+431;27;Santa Terezinha do Tocantins
+432;27;São Bento do Tocantins
+433;27;São Félix do Tocantins
+434;27;São Miguel do Tocantins
+435;27;São Salvador do Tocantins
+436;27;São Sebastião do Tocantins
+437;27;São Valério da Natividade
+438;27;Silvanópolis
+439;27;Sítio Novo do Tocantins
+440;27;Sucupira
+441;27;Taguatinga
+442;27;Taipas do Tocantins
+443;27;Talismã
+444;27;Palmas
+445;27;Tocantínia
+446;27;Tocantinópolis
+447;27;Tupirama
+448;27;Tupiratins
+449;27;Wanderlândia
+450;27;Xambioá
+451;10;Açailândia
+452;10;Afonso Cunha
+453;10;Água Doce do Maranhão
+454;10;Alcântara
+455;10;Aldeias Altas
+456;10;Altamira do Maranhão
+457;10;Alto Alegre do Maranhão
+458;10;Alto Alegre do Pindaré
+459;10;Alto Parnaíba
+460;10;Amapá do Maranhão
+461;10;Amarante do Maranhão
+462;10;Anajatuba
+463;10;Anapurus
+464;10;Apicum-açu
+465;10;Araguanã
+466;10;Araioses
+467;10;Arame
+468;10;Arari
+469;10;Axixá
+470;10;Bacabal
+471;10;Bacabeira
+472;10;Bacuri
+473;10;Bacurituba
+474;10;Balsas
+475;10;Barão de Grajaú
+476;10;Barra do Corda
+477;10;Barreirinhas
+478;10;Belágua
+479;10;Bela Vista do Maranhão
+480;10;Benedito Leite
+481;10;Bequimão
+482;10;Bernardo do Mearim
+483;10;Boa Vista do Gurupi
+484;10;Bom Jardim
+485;10;Bom Jesus Das Selvas
+486;10;Bom Lugar
+487;10;Brejo
+488;10;Brejo de Areia
+489;10;Buriti
+490;10;Buriti Bravo
+491;10;Buriticupu
+492;10;Buritirana
+493;10;Cachoeira Grande
+494;10;Cajapió
+495;10;Cajari
+496;10;Campestre do Maranhão
+497;10;Cândido Mendes
+498;10;Cantanhede
+499;10;Capinzal do Norte
+500;10;Carolina
+501;10;Carutapera
+502;10;Caxias
+503;10;Cedral
+504;10;Central do Maranhão
+505;10;Centro do Guilherme
+506;10;Centro Novo do Maranhão
+507;10;Chapadinha
+508;10;Cidelândia
+509;10;Codó
+510;10;Coelho Neto
+511;10;Colinas
+512;10;Conceição do Lago-açu
+513;10;Coroatá
+514;10;Cururupu
+515;10;Davinópolis
+516;10;Dom Pedro
+517;10;Duque Bacelar
+518;10;Esperantinópolis
+519;10;Estreito
+520;10;Feira Nova do Maranhão
+521;10;Fernando Falcão
+522;10;Formosa da Serra Negra
+523;10;Fortaleza Dos Nogueiras
+524;10;Fortuna
+525;10;Godofredo Viana
+526;10;Gonçalves Dias
+527;10;Governador Archer
+528;10;Governador Edison Lobão
+529;10;Governador Eugênio Barros
+530;10;Governador Luiz Rocha
+531;10;Governador Newton Bello
+532;10;Governador Nunes Freire
+533;10;Graça Aranha
+534;10;Grajaú
+535;10;Guimarães
+536;10;Humberto de Campos
+537;10;Icatu
+538;10;Igarapé do Meio
+539;10;Igarapé Grande
+540;10;Imperatriz
+541;10;Itaipava do Grajaú
+542;10;Itapecuru Mirim
+543;10;Itinga do Maranhão
+544;10;Jatobá
+545;10;Jenipapo Dos Vieiras
+546;10;João Lisboa
+547;10;Joselândia
+548;10;Junco do Maranhão
+549;10;Lago da Pedra
+550;10;Lago do Junco
+551;10;Lago Verde
+552;10;Lagoa do Mato
+553;10;Lago Dos Rodrigues
+554;10;Lagoa Grande do Maranhão
+555;10;Lajeado Novo
+556;10;Lima Campos
+557;10;Loreto
+558;10;Luís Domingues
+559;10;Magalhães de Almeida
+560;10;Maracaçumé
+561;10;Marajá do Sena
+562;10;Maranhãozinho
+563;10;Mata Roma
+564;10;Matinha
+565;10;Matões
+566;10;Matões do Norte
+567;10;Milagres do Maranhão
+568;10;Mirador
+569;10;Miranda do Norte
+570;10;Mirinzal
+571;10;Monção
+572;10;Montes Altos
+573;10;Morros
+574;10;Nina Rodrigues
+575;10;Nova Colinas
+576;10;Nova Iorque
+577;10;Nova Olinda do Maranhão
+578;10;Olho D´água Das Cunhãs
+579;10;Olinda Nova do Maranhão
+580;10;Paço do Lumiar
+581;10;Palmeirândia
+582;10;Paraibano
+583;10;Parnarama
+584;10;Passagem Franca
+585;10;Pastos Bons
+586;10;Paulino Neves
+587;10;Paulo Ramos
+588;10;Pedreiras
+589;10;Pedro do Rosário
+590;10;Penalva
+591;10;Peri Mirim
+592;10;Peritoró
+593;10;Pindaré-mirim
+594;10;Pinheiro
+595;10;Pio Xii
+596;10;Pirapemas
+597;10;Poção de Pedras
+598;10;Porto Franco
+599;10;Porto Rico do Maranhão
+600;10;Presidente Dutra
+601;10;Presidente Juscelino
+602;10;Presidente Médici
+603;10;Presidente Sarney
+604;10;Presidente Vargas
+605;10;Primeira Cruz
+606;10;Raposa
+607;10;Riachão
+608;10;Ribamar Fiquene
+609;10;Rosário
+610;10;Sambaíba
+611;10;Santa Filomena do Maranhão
+612;10;Santa Helena
+613;10;Santa Inês
+614;10;Santa Luzia
+615;10;Santa Luzia do Paruá
+616;10;Santa Quitéria do Maranhão
+617;10;Santa Rita
+618;10;Santana do Maranhão
+619;10;Santo Amaro do Maranhão
+620;10;Santo Antônio Dos Lopes
+621;10;São Benedito do Rio Preto
+622;10;São Bento
+623;10;São Bernardo
+624;10;São Domingos do Azeitão
+625;10;São Domingos do Maranhão
+626;10;São Félix de Balsas
+627;10;São Francisco do Brejão
+628;10;São Francisco do Maranhão
+629;10;São João Batista
+630;10;São João do Carú
+631;10;São João do Paraíso
+632;10;São João do Soter
+633;10;São João Dos Patos
+634;10;São José de Ribamar
+635;10;São José Dos Basílios
+636;10;São Luís
+637;10;São Luís Gonzaga do Maranhão
+638;10;São Mateus do Maranhão
+639;10;São Pedro da Água Branca
+640;10;São Pedro Dos Crentes
+641;10;São Raimundo Das Mangabeiras
+642;10;São Raimundo do Doca Bezerra
+643;10;São Roberto
+644;10;São Vicente Ferrer
+645;10;Satubinha
+646;10;Senador Alexandre Costa
+647;10;Senador la Rocque
+648;10;Serrano do Maranhão
+649;10;Sítio Novo
+650;10;Sucupira do Norte
+651;10;Sucupira do Riachão
+652;10;Tasso Fragoso
+653;10;Timbiras
+654;10;Timon
+655;10;Trizidela do Vale
+656;10;Tufilândia
+657;10;Tuntum
+658;10;Turiaçu
+659;10;Turilândia
+660;10;Tutóia
+661;10;Urbano Santos
+662;10;Vargem Grande
+663;10;Viana
+664;10;Vila Nova Dos Martírios
+665;10;Vitória do Mearim
+666;10;Vitorino Freire
+667;10;zé Doca
+668;17;Acauã
+669;17;Agricolândia
+670;17;Água Branca
+671;17;Alagoinha do Piauí
+672;17;Alegrete do Piauí
+673;17;Alto Longá
+674;17;Altos
+675;17;Alvorada do Gurguéia
+676;17;Amarante
+677;17;Angical do Piauí
+678;17;Anísio de Abreu
+679;17;Antônio Almeida
+680;17;Aroazes
+681;17;Aroeiras do Itaim
+682;17;Arraial
+683;17;Assunção do Piauí
+684;17;Avelino Lopes
+685;17;Baixa Grande do Ribeiro
+686;17;Barra D´alcântara
+687;17;Barras
+688;17;Barreiras do Piauí
+689;17;Barro Duro
+690;17;Batalha
+691;17;Bela Vista do Piauí
+692;17;Belém do Piauí
+693;17;Beneditinos
+694;17;Bertolínia
+695;17;Betânia do Piauí
+696;17;Boa Hora
+697;17;Bocaina
+698;17;Bom Jesus
+699;17;Bom Princípio do Piauí
+700;17;Bonfim do Piauí
+701;17;Boqueirão do Piauí
+702;17;Brasileira
+703;17;Brejo do Piauí
+704;17;Buriti Dos Lopes
+705;17;Buriti Dos Montes
+706;17;Cabeceiras do Piauí
+707;17;Cajazeiras do Piauí
+708;17;Cajueiro da Praia
+709;17;Caldeirão Grande do Piauí
+710;17;Campinas do Piauí
+711;17;Campo Alegre do Fidalgo
+712;17;Campo Grande do Piauí
+713;17;Campo Largo do Piauí
+714;17;Campo Maior
+715;17;Canavieira
+716;17;Canto do Buriti
+717;17;Capitão de Campos
+718;17;Capitão Gervásio Oliveira
+719;17;Caracol
+720;17;Caraúbas do Piauí
+721;17;Caridade do Piauí
+722;17;Castelo do Piauí
+723;17;Caxingó
+724;17;Cocal
+725;17;Cocal de Telha
+726;17;Cocal Dos Alves
+727;17;Coivaras
+728;17;Colônia do Gurguéia
+729;17;Colônia do Piauí
+730;17;Conceição do Canindé
+731;17;Coronel José Dias
+732;17;Corrente
+733;17;Cristalândia do Piauí
+734;17;Cristino Castro
+735;17;Curimatá
+736;17;Currais
+737;17;Curralinhos
+738;17;Curral Novo do Piauí
+739;17;Demerval Lobão
+740;17;Dirceu Arcoverde
+741;17;Dom Expedito Lopes
+742;17;Domingos Mourão
+743;17;Dom Inocêncio
+744;17;Elesbão Veloso
+745;17;Eliseu Martins
+746;17;Esperantina
+747;17;Fartura do Piauí
+748;17;Flores do Piauí
+749;17;Floresta do Piauí
+750;17;Floriano
+751;17;Francinópolis
+752;17;Francisco Ayres
+753;17;Francisco Macedo
+754;17;Francisco Santos
+755;17;Fronteiras
+756;17;Geminiano
+757;17;Gilbués
+758;17;Guadalupe
+759;17;Guaribas
+760;17;Hugo Napoleão
+761;17;Ilha Grande
+762;17;Inhuma
+763;17;Ipiranga do Piauí
+764;17;Isaías Coelho
+765;17;Itainópolis
+766;17;Itaueira
+767;17;Jacobina do Piauí
+768;17;Jaicós
+769;17;Jardim do Mulato
+770;17;Jatobá do Piauí
+771;17;Jerumenha
+772;17;João Costa
+773;17;Joaquim Pires
+774;17;Joca Marques
+775;17;José de Freitas
+776;17;Juazeiro do Piauí
+777;17;Júlio Borges
+778;17;Jurema
+779;17;Lagoinha do Piauí
+780;17;Lagoa Alegre
+781;17;Lagoa do Barro do Piauí
+782;17;Lagoa de São Francisco
+783;17;Lagoa do Piauí
+784;17;Lagoa do Sítio
+785;17;Landri Sales
+786;17;Luís Correia
+787;17;Luzilândia
+788;17;Madeiro
+789;17;Manoel Emídio
+790;17;Marcolândia
+791;17;Marcos Parente
+792;17;Massapê do Piauí
+793;17;Matias Olímpio
+794;17;Miguel Alves
+795;17;Miguel Leão
+796;17;Milton Brandão
+797;17;Monsenhor Gil
+798;17;Monsenhor Hipólito
+799;17;Monte Alegre do Piauí
+800;17;Morro Cabeça no Tempo
+801;17;Morro do Chapéu do Piauí
+802;17;Murici Dos Portelas
+803;17;Nazaré do Piauí
+804;17;Nazária
+805;17;Nossa Senhora de Nazaré
+806;17;Nossa Senhora Dos Remédios
+807;17;Novo Oriente do Piauí
+808;17;Novo Santo Antônio
+809;17;Oeiras
+810;17;Olho D´água do Piauí
+811;17;Padre Marcos
+812;17;Paes Landim
+813;17;Pajeú do Piauí
+814;17;Palmeira do Piauí
+815;17;Palmeirais
+816;17;Paquetá
+817;17;Parnaguá
+818;17;Parnaíba
+819;17;Passagem Franca do Piauí
+820;17;Patos do Piauí
+821;17;Pau D´arco do Piauí
+822;17;Paulistana
+823;17;Pavussu
+824;17;Pedro ii
+825;17;Pedro Laurentino
+826;17;Nova Santa Rita
+827;17;Picos
+828;17;Pimenteiras
+829;17;Pio ix
+830;17;Piracuruca
+831;17;Piripiri
+832;17;Porto
+833;17;Porto Alegre do Piauí
+834;17;Prata do Piauí
+835;17;Queimada Nova
+836;17;Redenção do Gurguéia
+837;17;Regeneração
+838;17;Riacho Frio
+839;17;Ribeira do Piauí
+840;17;Ribeiro Gonçalves
+841;17;Rio Grande do Piauí
+842;17;Santa Cruz do Piauí
+843;17;Santa Cruz Dos Milagres
+844;17;Santa Filomena
+845;17;Santa Luz
+846;17;Santana do Piauí
+847;17;Santa Rosa do Piauí
+848;17;Santo Antônio de Lisboa
+849;17;Santo Antônio Dos Milagres
+850;17;Santo Inácio do Piauí
+851;17;São Braz do Piauí
+852;17;São Félix do Piauí
+853;17;São Francisco de Assis do Piauí
+854;17;São Francisco do Piauí
+855;17;São Gonçalo do Gurguéia
+856;17;São Gonçalo do Piauí
+857;17;São João da Canabrava
+858;17;São João da Fronteira
+859;17;São João da Serra
+860;17;São João da Varjota
+861;17;São João do Arraial
+862;17;São João do Piauí
+863;17;São José do Divino
+864;17;São José do Peixe
+865;17;São José do Piauí
+866;17;São Julião
+867;17;São Lourenço do Piauí
+868;17;São Luis do Piauí
+869;17;São Miguel da Baixa Grande
+870;17;São Miguel do Fidalgo
+871;17;São Miguel do Tapuio
+872;17;São Pedro do Piauí
+873;17;São Raimundo Nonato
+874;17;Sebastião Barros
+875;17;Sebastião Leal
+876;17;Sigefredo Pacheco
+877;17;Simões
+878;17;Simplício Mendes
+879;17;Socorro do Piauí
+880;17;Sussuapara
+881;17;Tamboril do Piauí
+882;17;Tanque do Piauí
+883;17;Teresina
+884;17;União
+885;17;Uruçuí
+886;17;Valença do Piauí
+887;17;Várzea Branca
+888;17;Várzea Grande
+889;17;Vera Mendes
+890;17;Vila Nova do Piauí
+891;17;Wall Ferraz
+892;6;Abaiara
+893;6;Acarapé
+894;6;Acaraú
+895;6;Acopiara
+896;6;Aiuaba
+897;6;Alcântaras
+898;6;Altaneira
+899;6;Alto Santo
+900;6;Amontada
+901;6;Antonina do Norte
+902;6;Apuiarés
+903;6;Aquiraz
+904;6;Aracati
+905;6;Aracoiaba
+906;6;Ararendá
+907;6;Araripe
+908;6;Aratuba
+909;6;Arneiroz
+910;6;Assaré
+911;6;Aurora
+912;6;Baixio
+913;6;Banabuiú
+914;6;Barbalha
+915;6;Barreira
+916;6;Barro
+917;6;Barroquinha
+918;6;Baturité
+919;6;Beberibe
+920;6;Bela Cruz
+921;6;Boa Viagem
+922;6;Brejo Santo
+923;6;Camocim
+924;6;Campos Sales
+925;6;Canindé
+926;6;Capistrano
+927;6;Caridade
+928;6;Cariré
+929;6;Caririaçu
+930;6;Cariús
+931;6;Carnaubal
+932;6;Cascavel
+933;6;Catarina
+934;6;Catunda
+935;6;Caucaia
+936;6;Cedro
+937;6;Chaval
+938;6;Choró
+939;6;Chorozinho
+940;6;Coreaú
+941;6;Crateús
+942;6;Crato
+943;6;Croatá
+944;6;Cruz
+945;6;Deputado Irapuan Pinheiro
+946;6;Ererê
+947;6;Eusébio
+948;6;Farias Brito
+949;6;Forquilha
+950;6;Fortaleza
+951;6;Fortim
+952;6;Frecheirinha
+953;6;General Sampaio
+954;6;Graça
+955;6;Granja
+956;6;Granjeiro
+957;6;Groaíras
+958;6;Guaiúba
+959;6;Guaraciaba do Norte
+960;6;Guaramiranga
+961;6;Hidrolândia
+962;6;Horizonte
+963;6;Ibaretama
+964;6;Ibiapina
+965;6;Ibicuitinga
+966;6;Icapuí
+967;6;Icó
+968;6;Iguatu
+969;6;Independência
+970;6;Ipaporanga
+971;6;Ipaumirim
+972;6;Ipu
+973;6;Ipueiras
+974;6;Iracema
+975;6;Irauçuba
+976;6;Itaiçaba
+977;6;Itaitinga
+978;6;Itapagé
+979;6;Itapipoca
+980;6;Itapiúna
+981;6;Itarema
+982;6;Itatira
+983;6;Jaguaretama
+984;6;Jaguaribara
+985;6;Jaguaribe
+986;6;Jaguaruana
+987;6;Jardim
+988;6;Jati
+989;6;Jijoca de Jericoacoara
+990;6;Juazeiro do Norte
+991;6;Jucás
+992;6;Lavras da Mangabeira
+993;6;Limoeiro do Norte
+994;6;Madalena
+995;6;Maracanaú
+996;6;Maranguape
+997;6;Marco
+998;6;Martinópole
+999;6;Massapê
+1000;6;Mauriti
+1001;6;Meruoca
+1002;6;Milagres
+1003;6;Milhã
+1004;6;Miraíma
+1005;6;Missão Velha
+1006;6;Mombaça
+1007;6;Monsenhor Tabosa
+1008;6;Morada Nova
+1009;6;Moraújo
+1010;6;Morrinhos
+1011;6;Mucambo
+1012;6;Mulungu
+1013;6;Nova Olinda
+1014;6;Nova Russas
+1015;6;Novo Oriente
+1016;6;Ocara
+1017;6;Orós
+1018;6;Pacajus
+1019;6;Pacatuba
+1020;6;Pacoti
+1021;6;Pacujá
+1022;6;Palhano
+1023;6;Palmácia
+1024;6;Paracuru
+1025;6;Paraipaba
+1026;6;Parambu
+1027;6;Paramoti
+1028;6;Pedra Branca
+1029;6;Penaforte
+1030;6;Pentecoste
+1031;6;Pereiro
+1032;6;Pindoretama
+1033;6;Piquet Carneiro
+1034;6;Pires Ferreira
+1035;6;Poranga
+1036;6;Porteiras
+1037;6;Potengi
+1038;6;Potiretama
+1039;6;Quiterianópolis
+1040;6;Quixadá
+1041;6;Quixelô
+1042;6;Quixeramobim
+1043;6;Quixeré
+1044;6;Redenção
+1045;6;Reriutaba
+1046;6;Russas
+1047;6;Saboeiro
+1048;6;Salitre
+1049;6;Santana do Acaraú
+1050;6;Santana do Cariri
+1051;6;Santa Quitéria
+1052;6;São Benedito
+1053;6;São Gonçalo do Amarante
+1054;6;São João do Jaguaribe
+1055;6;São Luís do Curu
+1056;6;Senador Pompeu
+1057;6;Senador sá
+1058;6;Sobral
+1059;6;Solonópole
+1060;6;Tabuleiro do Norte
+1061;6;Tamboril
+1062;6;Tarrafas
+1063;6;Tauá
+1064;6;Tejuçuoca
+1065;6;Tianguá
+1066;6;Trairi
+1067;6;Tururu
+1068;6;Ubajara
+1069;6;Umari
+1070;6;Umirim
+1071;6;Uruburetama
+1072;6;Uruoca
+1073;6;Varjota
+1074;6;Várzea Alegre
+1075;6;Viçosa do Ceará
+1076;20;Acari
+1077;20;Açu
+1078;20;Afonso Bezerra
+1079;20;Água Nova
+1080;20;Alexandria
+1081;20;Almino Afonso
+1082;20;Alto do Rodrigues
+1083;20;Angicos
+1084;20;Antônio Martins
+1085;20;Apodi
+1086;20;Areia Branca
+1087;20;Arês
+1088;20;Augusto Severo
+1089;20;Baía Formosa
+1090;20;Baraúna
+1091;20;Barcelona
+1092;20;Bento Fernandes
+1093;20;Bodó
+1094;20;Bom Jesus
+1095;20;Brejinho
+1096;20;Caiçara do Norte
+1097;20;Caiçara do Rio do Vento
+1098;20;Caicó
+1099;20;Campo Redondo
+1100;20;Canguaretama
+1101;20;Caraúbas
+1102;20;Carnaúba Dos Dantas
+1103;20;Carnaubais
+1104;20;Ceará-mirim
+1105;20;Cerro Corá
+1106;20;Coronel Ezequiel
+1107;20;Coronel João Pessoa
+1108;20;Cruzeta
+1109;20;Currais Novos
+1110;20;Doutor Severiano
+1111;20;Parnamirim
+1112;20;Encanto
+1113;20;Equador
+1114;20;Espírito Santo
+1115;20;Extremoz
+1116;20;Felipe Guerra
+1117;20;Fernando Pedroza
+1118;20;Florânia
+1119;20;Francisco Dantas
+1120;20;Frutuoso Gomes
+1121;20;Galinhos
+1122;20;Goianinha
+1123;20;Governador Dix-sept Rosado
+1124;20;Grossos
+1125;20;Guamaré
+1126;20;Ielmo Marinho
+1127;20;Ipanguaçu
+1128;20;Ipueira
+1129;20;Itajá
+1130;20;Itaú
+1131;20;Jaçanã
+1132;20;Jandaíra
+1133;20;Janduís
+1134;20;Januário Cicco
+1135;20;Japi
+1136;20;Jardim de Angicos
+1137;20;Jardim de Piranhas
+1138;20;Jardim do Seridó
+1139;20;João Câmara
+1140;20;João Dias
+1141;20;José da Penha
+1142;20;Jucurutu
+1143;20;Jundiá
+1144;20;Lagoa D´anta
+1145;20;Lagoa de Pedras
+1146;20;Lagoa de Velhos
+1147;20;Lagoa Nova
+1148;20;Lagoa Salgada
+1149;20;Lajes
+1150;20;Lajes Pintadas
+1151;20;Lucrécia
+1152;20;Luís Gomes
+1153;20;Macaíba
+1154;20;Macau
+1155;20;Major Sales
+1156;20;Marcelino Vieira
+1157;20;Martins
+1158;20;Maxaranguape
+1159;20;Messias Targino
+1160;20;Montanhas
+1161;20;Monte Alegre
+1162;20;Monte Das Gameleiras
+1163;20;Mossoró
+1164;20;Natal
+1165;20;Nísia Floresta
+1166;20;Nova Cruz
+1167;20;Olho-d´água do Borges
+1168;20;Ouro Branco
+1169;20;Paraná
+1170;20;Paraú
+1171;20;Parazinho
+1172;20;Parelhas
+1173;20;Rio do Fogo
+1174;20;Passa e Fica
+1175;20;Passagem
+1176;20;Patu
+1177;20;Santa Maria
+1178;20;Pau Dos Ferros
+1179;20;Pedra Grande
+1180;20;Pedra Preta
+1181;20;Pedro Avelino
+1182;20;Pedro Velho
+1183;20;Pendências
+1184;20;Pilões
+1185;20;Poço Branco
+1186;20;Portalegre
+1187;20;Porto do Mangue
+1188;20;Presidente Juscelino
+1189;20;Pureza
+1190;20;Rafael Fernandes
+1191;20;Rafael Godeiro
+1192;20;Riacho da Cruz
+1193;20;Riacho de Santana
+1194;20;Riachuelo
+1195;20;Rodolfo Fernandes
+1196;20;Tibau
+1197;20;Ruy Barbosa
+1198;20;Santa Cruz
+1199;20;Santana do Matos
+1200;20;Santana do Seridó
+1201;20;Santo Antônio
+1202;20;São Bento do Norte
+1203;20;São Bento do Trairí
+1204;20;São Fernando
+1205;20;São Francisco do Oeste
+1206;20;São Gonçalo do Amarante
+1207;20;São João do Sabugi
+1208;20;São José de Mipibu
+1209;20;São José do Campestre
+1210;20;São José do Seridó
+1211;20;São Miguel
+1212;20;São Miguel do Gostoso
+1213;20;São Paulo do Potengi
+1214;20;São Pedro
+1215;20;São Rafael
+1216;20;São Tomé
+1217;20;São Vicente
+1218;20;Senador Elói de Souza
+1219;20;Senador Georgino Avelino
+1220;20;Serra de São Bento
+1221;20;Serra do Mel
+1222;20;Serra Negra do Norte
+1223;20;Serrinha
+1224;20;Serrinha Dos Pintos
+1225;20;Severiano Melo
+1226;20;Sítio Novo
+1227;20;Taboleiro Grande
+1228;20;Taipu
+1229;20;Tangará
+1230;20;Tenente Ananias
+1231;20;Tenente Laurentino Cruz
+1232;20;Tibau do Sul
+1233;20;Timbaúba Dos Batistas
+1234;20;Touros
+1235;20;Triunfo Potiguar
+1236;20;Umarizal
+1237;20;Upanema
+1238;20;Várzea
+1239;20;Venha-ver
+1240;20;Vera Cruz
+1241;20;Viçosa
+1242;20;Vila Flor
+1243;15;Água Branca
+1244;15;Aguiar
+1245;15;Alagoa Grande
+1246;15;Alagoa Nova
+1247;15;Alagoinha
+1248;15;Alcantil
+1249;15;Algodão de Jandaíra
+1250;15;Alhandra
+1251;15;São João do Rio do Peixe
+1252;15;Amparo
+1253;15;Aparecida
+1254;15;Araçagi
+1255;15;Arara
+1256;15;Araruna
+1257;15;Areia
+1258;15;Areia de Baraúnas
+1259;15;Areial
+1260;15;Aroeiras
+1261;15;Assunção
+1262;15;Baía da Traição
+1263;15;Bananeiras
+1264;15;Baraúna
+1265;15;Barra de Santana
+1266;15;Barra de Santa Rosa
+1267;15;Barra de São Miguel
+1268;15;Bayeux
+1269;15;Belém
+1270;15;Belém do Brejo do Cruz
+1271;15;Bernardino Batista
+1272;15;Boa Ventura
+1273;15;Boa Vista
+1274;15;Bom Jesus
+1275;15;Bom Sucesso
+1276;15;Bonito de Santa fé
+1277;15;Boqueirão
+1278;15;Igaracy
+1279;15;Borborema
+1280;15;Brejo do Cruz
+1281;15;Brejo Dos Santos
+1282;15;Caaporã
+1283;15;Cabaceiras
+1284;15;Cabedelo
+1285;15;Cachoeira Dos Índios
+1286;15;Cacimba de Areia
+1287;15;Cacimba de Dentro
+1288;15;Cacimbas
+1289;15;Caiçara
+1290;15;Cajazeiras
+1291;15;Cajazeirinhas
+1292;15;Caldas Brandão
+1293;15;Camalaú
+1294;15;Campina Grande
+1295;15;Capim
+1296;15;Caraúbas
+1297;15;Carrapateira
+1298;15;Casserengue
+1299;15;Catingueira
+1300;15;Catolé do Rocha
+1301;15;Caturité
+1302;15;Conceição
+1303;15;Condado
+1304;15;Conde
+1305;15;Congo
+1306;15;Coremas
+1307;15;Coxixola
+1308;15;Cruz do Espírito Santo
+1309;15;Cubati
+1310;15;Cuité
+1311;15;Cuitegi
+1312;15;Cuité de Mamanguape
+1313;15;Curral de Cima
+1314;15;Curral Velho
+1315;15;Damião
+1316;15;Desterro
+1317;15;Vista Serrana
+1318;15;Diamante
+1319;15;Dona Inês
+1320;15;Duas Estradas
+1321;15;Emas
+1322;15;Esperança
+1323;15;Fagundes
+1324;15;Frei Martinho
+1325;15;Gado Bravo
+1326;15;Guarabira
+1327;15;Gurinhém
+1328;15;Gurjão
+1329;15;Ibiara
+1330;15;Imaculada
+1331;15;Ingá
+1332;15;Itabaiana
+1333;15;Itaporanga
+1334;15;Itapororoca
+1335;15;Itatuba
+1336;15;Jacaraú
+1337;15;Jericó
+1338;15;João Pessoa
+1339;15;Juarez Távora
+1340;15;Juazeirinho
+1341;15;Junco do Seridó
+1342;15;Juripiranga
+1343;15;Juru
+1344;15;Lagoa
+1345;15;Lagoa de Dentro
+1346;15;Lagoa Seca
+1347;15;Lastro
+1348;15;Livramento
+1349;15;Logradouro
+1350;15;Lucena
+1351;15;Mãe D´água
+1352;15;Malta
+1353;15;Mamanguape
+1354;15;Manaíra
+1355;15;Marcação
+1356;15;Mari
+1357;15;Marizópolis
+1358;15;Massaranduba
+1359;15;Mataraca
+1360;15;Matinhas
+1361;15;Mato Grosso
+1362;15;Maturéia
+1363;15;Mogeiro
+1364;15;Montadas
+1365;15;Monte Horebe
+1366;15;Monteiro
+1367;15;Mulungu
+1368;15;Natuba
+1369;15;Nazarezinho
+1370;15;Nova Floresta
+1371;15;Nova Olinda
+1372;15;Nova Palmeira
+1373;15;Olho D´água
+1374;15;Olivedos
+1375;15;Ouro Velho
+1376;15;Parari
+1377;15;Passagem
+1378;15;Patos
+1379;15;Paulista
+1380;15;Pedra Branca
+1381;15;Pedra Lavrada
+1382;15;Pedras de Fogo
+1383;15;Piancó
+1384;15;Picuí
+1385;15;Pilar
+1386;15;Pilões
+1387;15;Pilõezinhos
+1388;15;Pirpirituba
+1389;15;Pitimbu
+1390;15;Pocinhos
+1391;15;Poço Dantas
+1392;15;Poço de José de Moura
+1393;15;Pombal
+1394;15;Prata
+1395;15;Princesa Isabel
+1396;15;Puxinanã
+1397;15;Queimadas
+1398;15;Quixabá
+1399;15;Remígio
+1400;15;Pedro Régis
+1401;15;Riachão
+1402;15;Riachão do Bacamarte
+1403;15;Riachão do Poço
+1404;15;Riacho de Santo Antônio
+1405;15;Riacho Dos Cavalos
+1406;15;Rio Tinto
+1407;15;Salgadinho
+1408;15;Salgado de São Félix
+1409;15;Santa Cecília
+1410;15;Santa Cruz
+1411;15;Santa Helena
+1412;15;Santa Inês
+1413;15;Santa Luzia
+1414;15;Santana de Mangueira
+1415;15;Santana Dos Garrotes
+1416;15;Santarém
+1417;15;Santa Rita
+1418;15;Santa Teresinha
+1419;15;Santo André
+1420;15;São Bento
+1421;15;São Bentinho
+1422;15;São Domingos do Cariri
+1423;15;São Domingos de Pombal
+1424;15;São Francisco
+1425;15;São João do Cariri
+1426;15;São João do Tigre
+1427;15;São José da Lagoa Tapada
+1428;15;São José de Caiana
+1429;15;São José de Espinharas
+1430;15;São José Dos Ramos
+1431;15;São José de Piranhas
+1432;15;São José de Princesa
+1433;15;São José do Bonfim
+1434;15;São José do Brejo do Cruz
+1435;15;São José do Sabugi
+1436;15;São José Dos Cordeiros
+1437;15;São Mamede
+1438;15;São Miguel de Taipu
+1439;15;São Sebastião de Lagoa de Roça
+1440;15;São Sebastião do Umbuzeiro
+1441;15;Sapé
+1442;15;Seridó
+1443;15;Serra Branca
+1444;15;Serra da Raiz
+1445;15;Serra Grande
+1446;15;Serra Redonda
+1447;15;Serraria
+1448;15;Sertãozinho
+1449;15;Sobrado
+1450;15;Solânea
+1451;15;Soledade
+1452;15;Sossêgo
+1453;15;Sousa
+1454;15;Sumé
+1455;15;Campo de Santana
+1456;15;Taperoá
+1457;15;Tavares
+1458;15;Teixeira
+1459;15;Tenório
+1460;15;Triunfo
+1461;15;Uiraúna
+1462;15;Umbuzeiro
+1463;15;Várzea
+1464;15;Vieirópolis
+1465;15;Zabelê
+1466;16;Abreu e Lima
+1467;16;Afogados da Ingazeira
+1468;16;Afrânio
+1469;16;Agrestina
+1470;16;Água Preta
+1471;16;Águas Belas
+1472;16;Alagoinha
+1473;16;Aliança
+1474;16;Altinho
+1475;16;Amaraji
+1476;16;Angelim
+1477;16;Araçoiaba
+1478;16;Araripina
+1479;16;Arcoverde
+1480;16;Barra de Guabiraba
+1481;16;Barreiros
+1482;16;Belém de Maria
+1483;16;Belém de São Francisco
+1484;16;Belo Jardim
+1485;16;Betânia
+1486;16;Bezerros
+1487;16;Bodocó
+1488;16;Bom Conselho
+1489;16;Bom Jardim
+1490;16;Bonito
+1491;16;Brejão
+1492;16;Brejinho
+1493;16;Brejo da Madre de Deus
+1494;16;Buenos Aires
+1495;16;Buíque
+1496;16;Cabo de Santo Agostinho
+1497;16;Cabrobó
+1498;16;Cachoeirinha
+1499;16;Caetés
+1500;16;Calçado
+1501;16;Calumbi
+1502;16;Camaragibe
+1503;16;Camocim de São Félix
+1504;16;Camutanga
+1505;16;Canhotinho
+1506;16;Capoeiras
+1507;16;Carnaíba
+1508;16;Carnaubeira da Penha
+1509;16;Carpina
+1510;16;Caruaru
+1511;16;Casinhas
+1512;16;Catende
+1513;16;Cedro
+1514;16;Chã de Alegria
+1515;16;Chã Grande
+1516;16;Condado
+1517;16;Correntes
+1518;16;Cortês
+1519;16;Cumaru
+1520;16;Cupira
+1521;16;Custódia
+1522;16;Dormentes
+1523;16;Escada
+1524;16;Exu
+1525;16;Feira Nova
+1526;16;Fernando de Noronha
+1527;16;Ferreiros
+1528;16;Flores
+1529;16;Floresta
+1530;16;Frei Miguelinho
+1531;16;Gameleira
+1532;16;Garanhuns
+1533;16;Glória do Goitá
+1534;16;Goiana
+1535;16;Granito
+1536;16;Gravatá
+1537;16;Iati
+1538;16;Ibimirim
+1539;16;Ibirajuba
+1540;16;Igarassu
+1541;16;Iguaraci
+1542;16;Inajá
+1543;16;Ingazeira
+1544;16;Ipojuca
+1545;16;Ipubi
+1546;16;Itacuruba
+1547;16;Itaíba
+1548;16;Ilha de Itamaracá
+1549;16;Itambé
+1550;16;Itapetim
+1551;16;Itapissuma
+1552;16;Itaquitinga
+1553;16;Jaboatão Dos Guararapes
+1554;16;Jaqueira
+1555;16;Jataúba
+1556;16;Jatobá
+1557;16;João Alfredo
+1558;16;Joaquim Nabuco
+1559;16;Jucati
+1560;16;Jupi
+1561;16;Jurema
+1562;16;Lagoa do Carro
+1563;16;Lagoa do Itaenga
+1564;16;Lagoa do Ouro
+1565;16;Lagoa Dos Gatos
+1566;16;Lagoa Grande
+1567;16;Lajedo
+1568;16;Limoeiro
+1569;16;Macaparana
+1570;16;Machados
+1571;16;Manari
+1572;16;Maraial
+1573;16;Mirandiba
+1574;16;Moreno
+1575;16;Nazaré da Mata
+1576;16;Olinda
+1577;16;Orobó
+1578;16;Orocó
+1579;16;Ouricuri
+1580;16;Palmares
+1581;16;Palmeirina
+1582;16;Panelas
+1583;16;Paranatama
+1584;16;Parnamirim
+1585;16;Passira
+1586;16;Paudalho
+1587;16;Paulista
+1588;16;Pedra
+1589;16;Pesqueira
+1590;16;Petrolândia
+1591;16;Petrolina
+1592;16;Poção
+1593;16;Pombos
+1594;16;Primavera
+1595;16;Quipapá
+1596;16;Quixaba
+1597;16;Recife
+1598;16;Riacho Das Almas
+1599;16;Ribeirão
+1600;16;Rio Formoso
+1601;16;Sairé
+1602;16;Salgadinho
+1603;16;Salgueiro
+1604;16;Saloá
+1605;16;Sanharó
+1606;16;Santa Cruz
+1607;16;Santa Cruz da Baixa Verde
+1608;16;Santa Cruz do Capibaribe
+1609;16;Santa Filomena
+1610;16;Santa Maria da Boa Vista
+1611;16;Santa Maria do Cambucá
+1612;16;Santa Terezinha
+1613;16;São Benedito do Sul
+1614;16;São Bento do Una
+1615;16;São Caitano
+1616;16;São João
+1617;16;São Joaquim do Monte
+1618;16;São José da Coroa Grande
+1619;16;São José do Belmonte
+1620;16;São José do Egito
+1621;16;São Lourenço da Mata
+1622;16;São Vicente Ferrer
+1623;16;Serra Talhada
+1624;16;Serrita
+1625;16;Sertânia
+1626;16;Sirinhaém
+1627;16;Moreilândia
+1628;16;Solidão
+1629;16;Surubim
+1630;16;Tabira
+1631;16;Tacaimbó
+1632;16;Tacaratu
+1633;16;Tamandaré
+1634;16;Taquaritinga do Norte
+1635;16;Terezinha
+1636;16;Terra Nova
+1637;16;Timbaúba
+1638;16;Toritama
+1639;16;Tracunhaém
+1640;16;Trindade
+1641;16;Triunfo
+1642;16;Tupanatinga
+1643;16;Tuparetama
+1644;16;Venturosa
+1645;16;Verdejante
+1646;16;Vertente do Lério
+1647;16;Vertentes
+1648;16;Vicência
+1649;16;Vitória de Santo Antão
+1650;16;Xexéu
+1651;2;Água Branca
+1652;2;Anadia
+1653;2;Arapiraca
+1654;2;Atalaia
+1655;2;Barra de Santo Antônio
+1656;2;Barra de São Miguel
+1657;2;Batalha
+1658;2;Belém
+1659;2;Belo Monte
+1660;2;Boca da Mata
+1661;2;Branquinha
+1662;2;Cacimbinhas
+1663;2;Cajueiro
+1664;2;Campestre
+1665;2;Campo Alegre
+1666;2;Campo Grande
+1667;2;Canapi
+1668;2;Capela
+1669;2;Carneiros
+1670;2;Chã Preta
+1671;2;Coité do Nóia
+1672;2;Colônia Leopoldina
+1673;2;Coqueiro Seco
+1674;2;Coruripe
+1675;2;Craíbas
+1676;2;Delmiro Gouveia
+1677;2;Dois Riachos
+1678;2;Estrela de Alagoas
+1679;2;Feira Grande
+1680;2;Feliz Deserto
+1681;2;Flexeiras
+1682;2;Girau do Ponciano
+1683;2;Ibateguara
+1684;2;Igaci
+1685;2;Igreja Nova
+1686;2;Inhapi
+1687;2;Jacaré Dos Homens
+1688;2;Jacuípe
+1689;2;Japaratinga
+1690;2;Jaramataia
+1691;2;Jequiá da Praia
+1692;2;Joaquim Gomes
+1693;2;Jundiá
+1694;2;Junqueiro
+1695;2;Lagoa da Canoa
+1696;2;Limoeiro de Anadia
+1697;2;Maceió
+1698;2;Major Isidoro
+1699;2;Maragogi
+1700;2;Maravilha
+1701;2;Marechal Deodoro
+1702;2;Maribondo
+1703;2;Mar Vermelho
+1704;2;Mata Grande
+1705;2;Matriz de Camaragibe
+1706;2;Messias
+1707;2;Minador do Negrão
+1708;2;Monteirópolis
+1709;2;Murici
+1710;2;Novo Lino
+1711;2;Olho D´água Das Flores
+1712;2;Olho D´água do Casado
+1713;2;Olho D´água Grande
+1714;2;Olivença
+1715;2;Ouro Branco
+1716;2;Palestina
+1717;2;Palmeira Dos Índios
+1718;2;Pão de Açúcar
+1719;2;Pariconha
+1720;2;Paripueira
+1721;2;Passo de Camaragibe
+1722;2;Paulo Jacinto
+1723;2;Penedo
+1724;2;Piaçabuçu
+1725;2;Pilar
+1726;2;Pindoba
+1727;2;Piranhas
+1728;2;Poço Das Trincheiras
+1729;2;Porto Calvo
+1730;2;Porto de Pedras
+1731;2;Porto Real do Colégio
+1732;2;Quebrangulo
+1733;2;Rio Largo
+1734;2;Roteiro
+1735;2;Santa Luzia do Norte
+1736;2;Santana do Ipanema
+1737;2;Santana do Mundaú
+1738;2;São Brás
+1739;2;São José da Laje
+1740;2;São José da Tapera
+1741;2;São Luís do Quitunde
+1742;2;São Miguel Dos Campos
+1743;2;São Miguel Dos Milagres
+1744;2;São Sebastião
+1745;2;Satuba
+1746;2;Senador Rui Palmeira
+1747;2;Tanque D´arca
+1748;2;Taquarana
+1749;2;Teotônio Vilela
+1750;2;Traipu
+1751;2;União Dos Palmares
+1752;2;Viçosa
+1753;25;Amparo de São Francisco
+1754;25;Aquidabã
+1755;25;Aracaju
+1756;25;Arauá
+1757;25;Areia Branca
+1758;25;Barra Dos Coqueiros
+1759;25;Boquim
+1760;25;Brejo Grande
+1761;25;Campo do Brito
+1762;25;Canhoba
+1763;25;Canindé de São Francisco
+1764;25;Capela
+1765;25;Carira
+1766;25;Carmópolis
+1767;25;Cedro de São João
+1768;25;Cristinápolis
+1769;25;Cumbe
+1770;25;Divina Pastora
+1771;25;Estância
+1772;25;Feira Nova
+1773;25;Frei Paulo
+1774;25;Gararu
+1775;25;General Maynard
+1776;25;Gracho Cardoso
+1777;25;Ilha Das Flores
+1778;25;Indiaroba
+1779;25;Itabaiana
+1780;25;Itabaianinha
+1781;25;Itabi
+1782;25;Itaporanga D´ajuda
+1783;25;Japaratuba
+1784;25;Japoatã
+1785;25;Lagarto
+1786;25;Laranjeiras
+1787;25;Macambira
+1788;25;Malhada Dos Bois
+1789;25;Malhador
+1790;25;Maruim
+1791;25;Moita Bonita
+1792;25;Monte Alegre de Sergipe
+1793;25;Muribeca
+1794;25;Neópolis
+1795;25;Nossa Senhora Aparecida
+1796;25;Nossa Senhora da Glória
+1797;25;Nossa Senhora Das Dores
+1798;25;Nossa Senhora de Lourdes
+1799;25;Nossa Senhora do Socorro
+1800;25;Pacatuba
+1801;25;Pedra Mole
+1802;25;Pedrinhas
+1803;25;Pinhão
+1804;25;Pirambu
+1805;25;Poço Redondo
+1806;25;Poço Verde
+1807;25;Porto da Folha
+1808;25;Propriá
+1809;25;Riachão do Dantas
+1810;25;Riachuelo
+1811;25;Ribeirópolis
+1812;25;Rosário do Catete
+1813;25;Salgado
+1814;25;Santa Luzia do Itanhy
+1815;25;Santana do São Francisco
+1816;25;Santa Rosa de Lima
+1817;25;Santo Amaro Das Brotas
+1818;25;São Cristóvão
+1819;25;São Domingos
+1820;25;São Francisco
+1821;25;São Miguel do Aleixo
+1822;25;Simão Dias
+1823;25;Siriri
+1824;25;Telha
+1825;25;Tobias Barreto
+1826;25;Tomar do Geru
+1827;25;Umbaúba
+1828;5;Abaíra
+1829;5;Abaré
+1830;5;Acajutiba
+1831;5;Adustina
+1832;5;Água Fria
+1833;5;Érico Cardoso
+1834;5;Aiquara
+1835;5;Alagoinhas
+1836;5;Alcobaça
+1837;5;Almadina
+1838;5;Amargosa
+1839;5;Amélia Rodrigues
+1840;5;América Dourada
+1841;5;Anagé
+1842;5;Andaraí
+1843;5;Andorinha
+1844;5;Angical
+1845;5;Anguera
+1846;5;Antas
+1847;5;Antônio Cardoso
+1848;5;Antônio Gonçalves
+1849;5;Aporá
+1850;5;Apuarema
+1851;5;Aracatu
+1852;5;Araças
+1853;5;Araci
+1854;5;Aramari
+1855;5;Arataca
+1856;5;Aratuípe
+1857;5;Aurelino Leal
+1858;5;Baianópolis
+1859;5;Baixa Grande
+1860;5;Banzaê
+1861;5;Barra
+1862;5;Barra da Estiva
+1863;5;Barra do Choça
+1864;5;Barra do Mendes
+1865;5;Barra do Rocha
+1866;5;Barreiras
+1867;5;Barro Alto
+1868;5;Barrocas
+1869;5;Governador Lomanto Júnior
+1870;5;Belmonte
+1871;5;Belo Campo
+1872;5;Biritinga
+1873;5;Boa Nova
+1874;5;Boa Vista do Tupim
+1875;5;Bom Jesus da Lapa
+1876;5;Bom Jesus da Serra
+1877;5;Boninal
+1878;5;Bonito
+1879;5;Boquira
+1880;5;Botuporã
+1881;5;Brejões
+1882;5;Brejolândia
+1883;5;Brotas de Macaúbas
+1884;5;Brumado
+1885;5;Buerarema
+1886;5;Buritirama
+1887;5;Caatiba
+1888;5;Cabaceiras do Paraguaçu
+1889;5;Cachoeira
+1890;5;Caculé
+1891;5;Caém
+1892;5;Caetanos
+1893;5;Caetité
+1894;5;Cafarnaum
+1895;5;Cairu
+1896;5;Caldeirão Grande
+1897;5;Camacan
+1898;5;Camaçari
+1899;5;Camamu
+1900;5;Campo Alegre de Lourdes
+1901;5;Campo Formoso
+1902;5;Canápolis
+1903;5;Canarana
+1904;5;Canavieiras
+1905;5;Candeal
+1906;5;Candeias
+1907;5;Candiba
+1908;5;Cândido Sales
+1909;5;Cansanção
+1910;5;Canudos
+1911;5;Capela do Alto Alegre
+1912;5;Capim Grosso
+1913;5;Caraíbas
+1914;5;Caravelas
+1915;5;Cardeal da Silva
+1916;5;Carinhanha
+1917;5;Casa Nova
+1918;5;Castro Alves
+1919;5;Catolândia
+1920;5;Catu
+1921;5;Caturama
+1922;5;Central
+1923;5;Chorrochó
+1924;5;Cícero Dantas
+1925;5;Cipó
+1926;5;Coaraci
+1927;5;Cocos
+1928;5;Conceição da Feira
+1929;5;Conceição do Almeida
+1930;5;Conceição do Coité
+1931;5;Conceição do Jacuípe
+1932;5;Conde
+1933;5;Condeúba
+1934;5;Contendas do Sincorá
+1935;5;Coração de Maria
+1936;5;Cordeiros
+1937;5;Coribe
+1938;5;Coronel João sá
+1939;5;Correntina
+1940;5;Cotegipe
+1941;5;Cravolândia
+1942;5;Crisópolis
+1943;5;Cristópolis
+1944;5;Cruz Das Almas
+1945;5;Curaçá
+1946;5;Dário Meira
+1947;5;Dias D´ávila
+1948;5;Dom Basílio
+1949;5;Dom Macedo Costa
+1950;5;Elísio Medrado
+1951;5;Encruzilhada
+1952;5;Entre Rios
+1953;5;Esplanada
+1954;5;Euclides da Cunha
+1955;5;Eunápolis
+1956;5;Fátima
+1957;5;Feira da Mata
+1958;5;Feira de Santana
+1959;5;Filadélfia
+1960;5;Firmino Alves
+1961;5;Floresta Azul
+1962;5;Formosa do Rio Preto
+1963;5;Gandu
+1964;5;Gavião
+1965;5;Gentio do Ouro
+1966;5;Glória
+1967;5;Gongogi
+1968;5;Governador Mangabeira
+1969;5;Guajeru
+1970;5;Guanambi
+1971;5;Guaratinga
+1972;5;Heliópolis
+1973;5;Iaçu
+1974;5;Ibiassucê
+1975;5;Ibicaraí
+1976;5;Ibicoara
+1977;5;Ibicuí
+1978;5;Ibipeba
+1979;5;Ibipitanga
+1980;5;Ibiquera
+1981;5;Ibirapitanga
+1982;5;Ibirapuã
+1983;5;Ibirataia
+1984;5;Ibitiara
+1985;5;Ibititá
+1986;5;Ibotirama
+1987;5;Ichu
+1988;5;Igaporã
+1989;5;Igrapiúna
+1990;5;Iguaí
+1991;5;Ilhéus
+1992;5;Inhambupe
+1993;5;Ipecaetá
+1994;5;Ipiaú
+1995;5;Ipirá
+1996;5;Ipupiara
+1997;5;Irajuba
+1998;5;Iramaia
+1999;5;Iraquara
+2000;5;Irará
+2001;5;Irecê
+2002;5;Itabela
+2003;5;Itaberaba
+2004;5;Itabuna
+2005;5;Itacaré
+2006;5;Itaeté
+2007;5;Itagi
+2008;5;Itagibá
+2009;5;Itagimirim
+2010;5;Itaguaçu da Bahia
+2011;5;Itaju do Colônia
+2012;5;Itajuípe
+2013;5;Itamaraju
+2014;5;Itamari
+2015;5;Itambé
+2016;5;Itanagra
+2017;5;Itanhém
+2018;5;Itaparica
+2019;5;Itapé
+2020;5;Itapebi
+2021;5;Itapetinga
+2022;5;Itapicuru
+2023;5;Itapitanga
+2024;5;Itaquara
+2025;5;Itarantim
+2026;5;Itatim
+2027;5;Itiruçu
+2028;5;Itiúba
+2029;5;Itororó
+2030;5;Ituaçu
+2031;5;Ituberá
+2032;5;Iuiú
+2033;5;Jaborandi
+2034;5;Jacaraci
+2035;5;Jacobina
+2036;5;Jaguaquara
+2037;5;Jaguarari
+2038;5;Jaguaripe
+2039;5;Jandaíra
+2040;5;Jequié
+2041;5;Jeremoabo
+2042;5;Jiquiriçá
+2043;5;Jitaúna
+2044;5;João Dourado
+2045;5;Juazeiro
+2046;5;Jucuruçu
+2047;5;Jussara
+2048;5;Jussari
+2049;5;Jussiape
+2050;5;Lafaiete Coutinho
+2051;5;Lagoa Real
+2052;5;Laje
+2053;5;Lajedão
+2054;5;Lajedinho
+2055;5;Lajedo do Tabocal
+2056;5;Lamarão
+2057;5;Lapão
+2058;5;Lauro de Freitas
+2059;5;Lençóis
+2060;5;Licínio de Almeida
+2061;5;Livramento de Nossa Senhora
+2062;5;Luís Eduardo Magalhães
+2063;5;Macajuba
+2064;5;Macarani
+2065;5;Macaúbas
+2066;5;Macururé
+2067;5;Madre de Deus
+2068;5;Maetinga
+2069;5;Maiquinique
+2070;5;Mairi
+2071;5;Malhada
+2072;5;Malhada de Pedras
+2073;5;Manoel Vitorino
+2074;5;Mansidão
+2075;5;Maracás
+2076;5;Maragogipe
+2077;5;Maraú
+2078;5;Marcionílio Souza
+2079;5;Mascote
+2080;5;Mata de São João
+2081;5;Matina
+2082;5;Medeiros Neto
+2083;5;Miguel Calmon
+2084;5;Milagres
+2085;5;Mirangaba
+2086;5;Mirante
+2087;5;Monte Santo
+2088;5;Morpará
+2089;5;Morro do Chapéu
+2090;5;Mortugaba
+2091;5;Mucugê
+2092;5;Mucuri
+2093;5;Mulungu do Morro
+2094;5;Mundo Novo
+2095;5;Muniz Ferreira
+2096;5;Muquém de São Francisco
+2097;5;Muritiba
+2098;5;Mutuípe
+2099;5;Nazaré
+2100;5;Nilo Peçanha
+2101;5;Nordestina
+2102;5;Nova Canaã
+2103;5;Nova Fátima
+2104;5;Nova Ibiá
+2105;5;Nova Itarana
+2106;5;Nova Redenção
+2107;5;Nova Soure
+2108;5;Nova Viçosa
+2109;5;Novo Horizonte
+2110;5;Novo Triunfo
+2111;5;Olindina
+2112;5;Oliveira Dos Brejinhos
+2113;5;Ouriçangas
+2114;5;Ourolândia
+2115;5;Palmas de Monte Alto
+2116;5;Palmeiras
+2117;5;Paramirim
+2118;5;Paratinga
+2119;5;Paripiranga
+2120;5;Pau Brasil
+2121;5;Paulo Afonso
+2122;5;pé de Serra
+2123;5;Pedrão
+2124;5;Pedro Alexandre
+2125;5;Piatã
+2126;5;Pilão Arcado
+2127;5;Pindaí
+2128;5;Pindobaçu
+2129;5;Pintadas
+2130;5;Piraí do Norte
+2131;5;Piripá
+2132;5;Piritiba
+2133;5;Planaltino
+2134;5;Planalto
+2135;5;Poções
+2136;5;Pojuca
+2137;5;Ponto Novo
+2138;5;Porto Seguro
+2139;5;Potiraguá
+2140;5;Prado
+2141;5;Presidente Dutra
+2142;5;Presidente Jânio Quadros
+2143;5;Presidente Tancredo Neves
+2144;5;Queimadas
+2145;5;Quijingue
+2146;5;Quixabeira
+2147;5;Rafael Jambeiro
+2148;5;Remanso
+2149;5;Retirolândia
+2150;5;Riachão Das Neves
+2151;5;Riachão do Jacuípe
+2152;5;Riacho de Santana
+2153;5;Ribeira do Amparo
+2154;5;Ribeira do Pombal
+2155;5;Ribeirão do Largo
+2156;5;Rio de Contas
+2157;5;Rio do Antônio
+2158;5;Rio do Pires
+2159;5;Rio Real
+2160;5;Rodelas
+2161;5;Ruy Barbosa
+2162;5;Salinas da Margarida
+2163;5;Salvador
+2164;5;Santa Bárbara
+2165;5;Santa Brígida
+2166;5;Santa Cruz Cabrália
+2167;5;Santa Cruz da Vitória
+2168;5;Santa Inês
+2169;5;Santaluz
+2170;5;Santa Luzia
+2171;5;Santa Maria da Vitória
+2172;5;Santana
+2173;5;Santanópolis
+2174;5;Santa Rita de Cássia
+2175;5;Santa Teresinha
+2176;5;Santo Amaro
+2177;5;Santo Antônio de Jesus
+2178;5;Santo Estêvão
+2179;5;São Desidério
+2180;5;São Domingos
+2181;5;São Félix
+2182;5;São Félix do Coribe
+2183;5;São Felipe
+2184;5;São Francisco do Conde
+2185;5;São Gabriel
+2186;5;São Gonçalo Dos Campos
+2187;5;São José da Vitória
+2188;5;São José do Jacuípe
+2189;5;São Miguel Das Matas
+2190;5;São Sebastião do Passé
+2191;5;Sapeaçu
+2192;5;Sátiro Dias
+2193;5;Saubara
+2194;5;Saúde
+2195;5;Seabra
+2196;5;Sebastião Laranjeiras
+2197;5;Senhor do Bonfim
+2198;5;Serra do Ramalho
+2199;5;Sento sé
+2200;5;Serra Dourada
+2201;5;Serra Preta
+2202;5;Serrinha
+2203;5;Serrolândia
+2204;5;Simões Filho
+2205;5;Sítio do Mato
+2206;5;Sítio do Quinto
+2207;5;Sobradinho
+2208;5;Souto Soares
+2209;5;Tabocas do Brejo Velho
+2210;5;Tanhaçu
+2211;5;Tanque Novo
+2212;5;Tanquinho
+2213;5;Taperoá
+2214;5;Tapiramutá
+2215;5;Teixeira de Freitas
+2216;5;Teodoro Sampaio
+2217;5;Teofilândia
+2218;5;Teolândia
+2219;5;Terra Nova
+2220;5;Tremedal
+2221;5;Tucano
+2222;5;Uauá
+2223;5;Ubaíra
+2224;5;Ubaitaba
+2225;5;Ubatã
+2226;5;Uibaí
+2227;5;Umburanas
+2228;5;Una
+2229;5;Urandi
+2230;5;Uruçuca
+2231;5;Utinga
+2232;5;Valença
+2233;5;Valente
+2234;5;Várzea da Roça
+2235;5;Várzea do Poço
+2236;5;Várzea Nova
+2237;5;Varzedo
+2238;5;Vera Cruz
+2239;5;Vereda
+2240;5;Vitória da Conquista
+2241;5;Wagner
+2242;5;Wanderley
+2243;5;Wenceslau Guimarães
+2244;5;Xique-xique
+2245;11;Abadia Dos Dourados
+2246;11;Abaeté
+2247;11;Abre Campo
+2248;11;Acaiaca
+2249;11;Açucena
+2250;11;Água Boa
+2251;11;Água Comprida
+2252;11;Aguanil
+2253;11;Águas Formosas
+2254;11;Águas Vermelhas
+2255;11;Aimorés
+2256;11;Aiuruoca
+2257;11;Alagoa
+2258;11;Albertina
+2259;11;Além Paraíba
+2260;11;Alfenas
+2261;11;Alfredo Vasconcelos
+2262;11;Almenara
+2263;11;Alpercata
+2264;11;Alpinópolis
+2265;11;Alterosa
+2266;11;Alto Caparaó
+2267;11;Alto Rio Doce
+2268;11;Alvarenga
+2269;11;Alvinópolis
+2270;11;Alvorada de Minas
+2271;11;Amparo do Serra
+2272;11;Andradas
+2273;11;Cachoeira de Pajeú
+2274;11;Andrelândia
+2275;11;Angelândia
+2276;11;Antônio Carlos
+2277;11;Antônio Dias
+2278;11;Antônio Prado de Minas
+2279;11;Araçaí
+2280;11;Aracitaba
+2281;11;Araçuaí
+2282;11;Araguari
+2283;11;Arantina
+2284;11;Araponga
+2285;11;Araporã
+2286;11;Arapuá
+2287;11;Araújos
+2288;11;Araxá
+2289;11;Arceburgo
+2290;11;Arcos
+2291;11;Areado
+2292;11;Argirita
+2293;11;Aricanduva
+2294;11;Arinos
+2295;11;Astolfo Dutra
+2296;11;Ataléia
+2297;11;Augusto de Lima
+2298;11;Baependi
+2299;11;Baldim
+2300;11;Bambuí
+2301;11;Bandeira
+2302;11;Bandeira do Sul
+2303;11;Barão de Cocais
+2304;11;Barão de Monte Alto
+2305;11;Barbacena
+2306;11;Barra Longa
+2307;11;Barroso
+2308;11;Bela Vista de Minas
+2309;11;Belmiro Braga
+2310;11;Belo Horizonte
+2311;11;Belo Oriente
+2312;11;Belo Vale
+2313;11;Berilo
+2314;11;Bertópolis
+2315;11;Berizal
+2316;11;Betim
+2317;11;Bias Fortes
+2318;11;Bicas
+2319;11;Biquinhas
+2320;11;Boa Esperança
+2321;11;Bocaina de Minas
+2322;11;Bocaiúva
+2323;11;Bom Despacho
+2324;11;Bom Jardim de Minas
+2325;11;Bom Jesus da Penha
+2326;11;Bom Jesus do Amparo
+2327;11;Bom Jesus do Galho
+2328;11;Bom Repouso
+2329;11;Bom Sucesso
+2330;11;Bonfim
+2331;11;Bonfinópolis de Minas
+2332;11;Bonito de Minas
+2333;11;Borda da Mata
+2334;11;Botelhos
+2335;11;Botumirim
+2336;11;Brasilândia de Minas
+2337;11;Brasília de Minas
+2338;11;Brás Pires
+2339;11;Braúnas
+2340;11;Brasópolis
+2341;11;Brumadinho
+2342;11;Bueno Brandão
+2343;11;Buenópolis
+2344;11;Bugre
+2345;11;Buritis
+2346;11;Buritizeiro
+2347;11;Cabeceira Grande
+2348;11;Cabo Verde
+2349;11;Cachoeira da Prata
+2350;11;Cachoeira de Minas
+2351;11;Cachoeira Dourada
+2352;11;Caetanópolis
+2353;11;Caeté
+2354;11;Caiana
+2355;11;Cajuri
+2356;11;Caldas
+2357;11;Camacho
+2358;11;Camanducaia
+2359;11;Cambuí
+2360;11;Cambuquira
+2361;11;Campanário
+2362;11;Campanha
+2363;11;Campestre
+2364;11;Campina Verde
+2365;11;Campo Azul
+2366;11;Campo Belo
+2367;11;Campo do Meio
+2368;11;Campo Florido
+2369;11;Campos Altos
+2370;11;Campos Gerais
+2371;11;Canaã
+2372;11;Canápolis
+2373;11;Cana Verde
+2374;11;Candeias
+2375;11;Cantagalo
+2376;11;Caparaó
+2377;11;Capela Nova
+2378;11;Capelinha
+2379;11;Capetinga
+2380;11;Capim Branco
+2381;11;Capinópolis
+2382;11;Capitão Andrade
+2383;11;Capitão Enéas
+2384;11;Capitólio
+2385;11;Caputira
+2386;11;Caraí
+2387;11;Caranaíba
+2388;11;Carandaí
+2389;11;Carangola
+2390;11;Caratinga
+2391;11;Carbonita
+2392;11;Careaçu
+2393;11;Carlos Chagas
+2394;11;Carmésia
+2395;11;Carmo da Cachoeira
+2396;11;Carmo da Mata
+2397;11;Carmo de Minas
+2398;11;Carmo do Cajuru
+2399;11;Carmo do Paranaíba
+2400;11;Carmo do Rio Claro
+2401;11;Carmópolis de Minas
+2402;11;Carneirinho
+2403;11;Carrancas
+2404;11;Carvalhópolis
+2405;11;Carvalhos
+2406;11;Casa Grande
+2407;11;Cascalho Rico
+2408;11;Cássia
+2409;11;Conceição da Barra de Minas
+2410;11;Cataguases
+2411;11;Catas Altas
+2412;11;Catas Altas da Noruega
+2413;11;Catuji
+2414;11;Catuti
+2415;11;Caxambu
+2416;11;Cedro do Abaeté
+2417;11;Central de Minas
+2418;11;Centralina
+2419;11;Chácara
+2420;11;Chalé
+2421;11;Chapada do Norte
+2422;11;Chapada Gaúcha
+2423;11;Chiador
+2424;11;Cipotânea
+2425;11;Claraval
+2426;11;Claro Dos Poções
+2427;11;Cláudio
+2428;11;Coimbra
+2429;11;Coluna
+2430;11;Comendador Gomes
+2431;11;Comercinho
+2432;11;Conceição da Aparecida
+2433;11;Conceição Das Pedras
+2434;11;Conceição Das Alagoas
+2435;11;Conceição de Ipanema
+2436;11;Conceição do Mato Dentro
+2437;11;Conceição do Pará
+2438;11;Conceição do Rio Verde
+2439;11;Conceição Dos Ouros
+2440;11;Cônego Marinho
+2441;11;Confins
+2442;11;Congonhal
+2443;11;Congonhas
+2444;11;Congonhas do Norte
+2445;11;Conquista
+2446;11;Conselheiro Lafaiete
+2447;11;Conselheiro Pena
+2448;11;Consolação
+2449;11;Contagem
+2450;11;Coqueiral
+2451;11;Coração de Jesus
+2452;11;Cordisburgo
+2453;11;Cordislândia
+2454;11;Corinto
+2455;11;Coroaci
+2456;11;Coromandel
+2457;11;Coronel Fabriciano
+2458;11;Coronel Murta
+2459;11;Coronel Pacheco
+2460;11;Coronel Xavier Chaves
+2461;11;Córrego Danta
+2462;11;Córrego do Bom Jesus
+2463;11;Córrego Fundo
+2464;11;Córrego Novo
+2465;11;Couto de Magalhães de Minas
+2466;11;Crisólita
+2467;11;Cristais
+2468;11;Cristália
+2469;11;Cristiano Otoni
+2470;11;Cristina
+2471;11;Crucilândia
+2472;11;Cruzeiro da Fortaleza
+2473;11;Cruzília
+2474;11;Cuparaque
+2475;11;Curral de Dentro
+2476;11;Curvelo
+2477;11;Datas
+2478;11;Delfim Moreira
+2479;11;Delfinópolis
+2480;11;Delta
+2481;11;Descoberto
+2482;11;Desterro de Entre Rios
+2483;11;Desterro do Melo
+2484;11;Diamantina
+2485;11;Diogo de Vasconcelos
+2486;11;Dionísio
+2487;11;Divinésia
+2488;11;Divino
+2489;11;Divino Das Laranjeiras
+2490;11;Divinolândia de Minas
+2491;11;Divinópolis
+2492;11;Divisa Alegre
+2493;11;Divisa Nova
+2494;11;Divisópolis
+2495;11;Dom Bosco
+2496;11;Dom Cavati
+2497;11;Dom Joaquim
+2498;11;Dom Silvério
+2499;11;Dom Viçoso
+2500;11;Dona Eusébia
+2501;11;Dores de Campos
+2502;11;Dores de Guanhães
+2503;11;Dores do Indaiá
+2504;11;Dores do Turvo
+2505;11;Doresópolis
+2506;11;Douradoquara
+2507;11;Durandé
+2508;11;Elói Mendes
+2509;11;Engenheiro Caldas
+2510;11;Engenheiro Navarro
+2511;11;Entre Folhas
+2512;11;Entre Rios de Minas
+2513;11;Ervália
+2514;11;Esmeraldas
+2515;11;Espera Feliz
+2516;11;Espinosa
+2517;11;Espírito Santo do Dourado
+2518;11;Estiva
+2519;11;Estrela Dalva
+2520;11;Estrela do Indaiá
+2521;11;Estrela do Sul
+2522;11;Eugenópolis
+2523;11;Ewbank da Câmara
+2524;11;Extrema
+2525;11;Fama
+2526;11;Faria Lemos
+2527;11;Felício Dos Santos
+2528;11;São Gonçalo do Rio Preto
+2529;11;Felisburgo
+2530;11;Felixlândia
+2531;11;Fernandes Tourinho
+2532;11;Ferros
+2533;11;Fervedouro
+2534;11;Florestal
+2535;11;Formiga
+2536;11;Formoso
+2537;11;Fortaleza de Minas
+2538;11;Fortuna de Minas
+2539;11;Francisco Badaró
+2540;11;Francisco Dumont
+2541;11;Francisco sá
+2542;11;Franciscópolis
+2543;11;Frei Gaspar
+2544;11;Frei Inocêncio
+2545;11;Frei Lagonegro
+2546;11;Fronteira
+2547;11;Fronteira Dos Vales
+2548;11;Fruta de Leite
+2549;11;Frutal
+2550;11;Funilândia
+2551;11;Galiléia
+2552;11;Gameleiras
+2553;11;Glaucilândia
+2554;11;Goiabeira
+2555;11;Goianá
+2556;11;Gonçalves
+2557;11;Gonzaga
+2558;11;Gouveia
+2559;11;Governador Valadares
+2560;11;Grão Mogol
+2561;11;Grupiara
+2562;11;Guanhães
+2563;11;Guapé
+2564;11;Guaraciaba
+2565;11;Guaraciama
+2566;11;Guaranésia
+2567;11;Guarani
+2568;11;Guarará
+2569;11;Guarda-mor
+2570;11;Guaxupé
+2571;11;Guidoval
+2572;11;Guimarânia
+2573;11;Guiricema
+2574;11;Gurinhatã
+2575;11;Heliodora
+2576;11;Iapu
+2577;11;Ibertioga
+2578;11;Ibiá
+2579;11;Ibiaí
+2580;11;Ibiracatu
+2581;11;Ibiraci
+2582;11;Ibirité
+2583;11;Ibitiúra de Minas
+2584;11;Ibituruna
+2585;11;Icaraí de Minas
+2586;11;Igarapé
+2587;11;Igaratinga
+2588;11;Iguatama
+2589;11;Ijaci
+2590;11;Ilicínea
+2591;11;Imbé de Minas
+2592;11;Inconfidentes
+2593;11;Indaiabira
+2594;11;Indianópolis
+2595;11;Ingaí
+2596;11;Inhapim
+2597;11;Inhaúma
+2598;11;Inimutaba
+2599;11;Ipaba
+2600;11;Ipanema
+2601;11;Ipatinga
+2602;11;Ipiaçu
+2603;11;Ipuiúna
+2604;11;Iraí de Minas
+2605;11;Itabira
+2606;11;Itabirinha
+2607;11;Itabirito
+2608;11;Itacambira
+2609;11;Itacarambi
+2610;11;Itaguara
+2611;11;Itaipé
+2612;11;Itajubá
+2613;11;Itamarandiba
+2614;11;Itamarati de Minas
+2615;11;Itambacuri
+2616;11;Itambé do Mato Dentro
+2617;11;Itamogi
+2618;11;Itamonte
+2619;11;Itanhandu
+2620;11;Itanhomi
+2621;11;Itaobim
+2622;11;Itapagipe
+2623;11;Itapecerica
+2624;11;Itapeva
+2625;11;Itatiaiuçu
+2626;11;Itaú de Minas
+2627;11;Itaúna
+2628;11;Itaverava
+2629;11;Itinga
+2630;11;Itueta
+2631;11;Ituiutaba
+2632;11;Itumirim
+2633;11;Iturama
+2634;11;Itutinga
+2635;11;Jaboticatubas
+2636;11;Jacinto
+2637;11;Jacuí
+2638;11;Jacutinga
+2639;11;Jaguaraçu
+2640;11;Jaíba
+2641;11;Jampruca
+2642;11;Janaúba
+2643;11;Januária
+2644;11;Japaraíba
+2645;11;Japonvar
+2646;11;Jeceaba
+2647;11;Jenipapo de Minas
+2648;11;Jequeri
+2649;11;Jequitaí
+2650;11;Jequitibá
+2651;11;Jequitinhonha
+2652;11;Jesuânia
+2653;11;Joaíma
+2654;11;Joanésia
+2655;11;João Monlevade
+2656;11;João Pinheiro
+2657;11;Joaquim Felício
+2658;11;Jordânia
+2659;11;José Gonçalves de Minas
+2660;11;José Raydan
+2661;11;Josenópolis
+2662;11;Nova União
+2663;11;Juatuba
+2664;11;Juiz de Fora
+2665;11;Juramento
+2666;11;Juruaia
+2667;11;Juvenília
+2668;11;Ladainha
+2669;11;Lagamar
+2670;11;Lagoa da Prata
+2671;11;Lagoa Dos Patos
+2672;11;Lagoa Dourada
+2673;11;Lagoa Formosa
+2674;11;Lagoa Grande
+2675;11;Lagoa Santa
+2676;11;Lajinha
+2677;11;Lambari
+2678;11;Lamim
+2679;11;Laranjal
+2680;11;Lassance
+2681;11;Lavras
+2682;11;Leandro Ferreira
+2683;11;Leme do Prado
+2684;11;Leopoldina
+2685;11;Liberdade
+2686;11;Lima Duarte
+2687;11;Limeira do Oeste
+2688;11;Lontra
+2689;11;Luisburgo
+2690;11;Luislândia
+2691;11;Luminárias
+2692;11;Luz
+2693;11;Machacalis
+2694;11;Machado
+2695;11;Madre de Deus de Minas
+2696;11;Malacacheta
+2697;11;Mamonas
+2698;11;Manga
+2699;11;Manhuaçu
+2700;11;Manhumirim
+2701;11;Mantena
+2702;11;Maravilhas
+2703;11;Mar de Espanha
+2704;11;Maria da fé
+2705;11;Mariana
+2706;11;Marilac
+2707;11;Mário Campos
+2708;11;Maripá de Minas
+2709;11;Marliéria
+2710;11;Marmelópolis
+2711;11;Martinho Campos
+2712;11;Martins Soares
+2713;11;Mata Verde
+2714;11;Materlândia
+2715;11;Mateus Leme
+2716;11;Matias Barbosa
+2717;11;Matias Cardoso
+2718;11;Matipó
+2719;11;Mato Verde
+2720;11;Matozinhos
+2721;11;Matutina
+2722;11;Medeiros
+2723;11;Medina
+2724;11;Mendes Pimentel
+2725;11;Mercês
+2726;11;Mesquita
+2727;11;Minas Novas
+2728;11;Minduri
+2729;11;Mirabela
+2730;11;Miradouro
+2731;11;Miraí
+2732;11;Miravânia
+2733;11;Moeda
+2734;11;Moema
+2735;11;Monjolos
+2736;11;Monsenhor Paulo
+2737;11;Montalvânia
+2738;11;Monte Alegre de Minas
+2739;11;Monte Azul
+2740;11;Monte Belo
+2741;11;Monte Carmelo
+2742;11;Monte Formoso
+2743;11;Monte Santo de Minas
+2744;11;Montes Claros
+2745;11;Monte Sião
+2746;11;Montezuma
+2747;11;Morada Nova de Minas
+2748;11;Morro da Garça
+2749;11;Morro do Pilar
+2750;11;Munhoz
+2751;11;Muriaé
+2752;11;Mutum
+2753;11;Muzambinho
+2754;11;Nacip Raydan
+2755;11;Nanuque
+2756;11;Naque
+2757;11;Natalândia
+2758;11;Natércia
+2759;11;Nazareno
+2760;11;Nepomuceno
+2761;11;Ninheira
+2762;11;Nova Belém
+2763;11;Nova Era
+2764;11;Nova Lima
+2765;11;Nova Módica
+2766;11;Nova Ponte
+2767;11;Nova Porteirinha
+2768;11;Nova Resende
+2769;11;Nova Serrana
+2770;11;Novo Cruzeiro
+2771;11;Novo Oriente de Minas
+2772;11;Novorizonte
+2773;11;Olaria
+2774;11;Olhos-d´água
+2775;11;Olímpio Noronha
+2776;11;Oliveira
+2777;11;Oliveira Fortes
+2778;11;Onça de Pitangui
+2779;11;Oratórios
+2780;11;Orizânia
+2781;11;Ouro Branco
+2782;11;Ouro Fino
+2783;11;Ouro Preto
+2784;11;Ouro Verde de Minas
+2785;11;Padre Carvalho
+2786;11;Padre Paraíso
+2787;11;Paineiras
+2788;11;Pains
+2789;11;Pai Pedro
+2790;11;Paiva
+2791;11;Palma
+2792;11;Palmópolis
+2793;11;Papagaios
+2794;11;Paracatu
+2795;11;Pará de Minas
+2796;11;Paraguaçu
+2797;11;Paraisópolis
+2798;11;Paraopeba
+2799;11;Passabém
+2800;11;Passa Quatro
+2801;11;Passa Tempo
+2802;11;Passa-vinte
+2803;11;Passos
+2804;11;Patis
+2805;11;Patos de Minas
+2806;11;Patrocínio
+2807;11;Patrocínio do Muriaé
+2808;11;Paula Cândido
+2809;11;Paulistas
+2810;11;Pavão
+2811;11;Peçanha
+2812;11;Pedra Azul
+2813;11;Pedra Bonita
+2814;11;Pedra do Anta
+2815;11;Pedra do Indaiá
+2816;11;Pedra Dourada
+2817;11;Pedralva
+2818;11;Pedras de Maria da Cruz
+2819;11;Pedrinópolis
+2820;11;Pedro Leopoldo
+2821;11;Pedro Teixeira
+2822;11;Pequeri
+2823;11;Pequi
+2824;11;Perdigão
+2825;11;Perdizes
+2826;11;Perdões
+2827;11;Periquito
+2828;11;Pescador
+2829;11;Piau
+2830;11;Piedade de Caratinga
+2831;11;Piedade de Ponte Nova
+2832;11;Piedade do Rio Grande
+2833;11;Piedade Dos Gerais
+2834;11;Pimenta
+2835;11;Pingo-d´água
+2836;11;Pintópolis
+2837;11;Piracema
+2838;11;Pirajuba
+2839;11;Piranga
+2840;11;Piranguçu
+2841;11;Piranguinho
+2842;11;Pirapetinga
+2843;11;Pirapora
+2844;11;Piraúba
+2845;11;Pitangui
+2846;11;Piumhi
+2847;11;Planura
+2848;11;Poço Fundo
+2849;11;Poços de Caldas
+2850;11;Pocrane
+2851;11;Pompéu
+2852;11;Ponte Nova
+2853;11;Ponto Chique
+2854;11;Ponto Dos Volantes
+2855;11;Porteirinha
+2856;11;Porto Firme
+2857;11;Poté
+2858;11;Pouso Alegre
+2859;11;Pouso Alto
+2860;11;Prados
+2861;11;Prata
+2862;11;Pratápolis
+2863;11;Pratinha
+2864;11;Presidente Bernardes
+2865;11;Presidente Juscelino
+2866;11;Presidente Kubitschek
+2867;11;Presidente Olegário
+2868;11;Alto Jequitibá
+2869;11;Prudente de Morais
+2870;11;Quartel Geral
+2871;11;Queluzito
+2872;11;Raposos
+2873;11;Raul Soares
+2874;11;Recreio
+2875;11;Reduto
+2876;11;Resende Costa
+2877;11;Resplendor
+2878;11;Ressaquinha
+2879;11;Riachinho
+2880;11;Riacho Dos Machados
+2881;11;Ribeirão Das Neves
+2882;11;Ribeirão Vermelho
+2883;11;Rio Acima
+2884;11;Rio Casca
+2885;11;Rio Doce
+2886;11;Rio do Prado
+2887;11;Rio Espera
+2888;11;Rio Manso
+2889;11;Rio Novo
+2890;11;Rio Paranaíba
+2891;11;Rio Pardo de Minas
+2892;11;Rio Piracicaba
+2893;11;Rio Pomba
+2894;11;Rio Preto
+2895;11;Rio Vermelho
+2896;11;Ritápolis
+2897;11;Rochedo de Minas
+2898;11;Rodeiro
+2899;11;Romaria
+2900;11;Rosário da Limeira
+2901;11;Rubelita
+2902;11;Rubim
+2903;11;Sabará
+2904;11;Sabinópolis
+2905;11;Sacramento
+2906;11;Salinas
+2907;11;Salto da Divisa
+2908;11;Santa Bárbara
+2909;11;Santa Bárbara do Leste
+2910;11;Santa Bárbara do Monte Verde
+2911;11;Santa Bárbara do Tugúrio
+2912;11;Santa Cruz de Minas
+2913;11;Santa Cruz de Salinas
+2914;11;Santa Cruz do Escalvado
+2915;11;Santa Efigênia de Minas
+2916;11;Santa fé de Minas
+2917;11;Santa Helena de Minas
+2918;11;Santa Juliana
+2919;11;Santa Luzia
+2920;11;Santa Margarida
+2921;11;Santa Maria de Itabira
+2922;11;Santa Maria do Salto
+2923;11;Santa Maria do Suaçuí
+2924;11;Santana da Vargem
+2925;11;Santana de Cataguases
+2926;11;Santana de Pirapama
+2927;11;Santana do Deserto
+2928;11;Santana do Garambéu
+2929;11;Santana do Jacaré
+2930;11;Santana do Manhuaçu
+2931;11;Santana do Paraíso
+2932;11;Santana do Riacho
+2933;11;Santana Dos Montes
+2934;11;Santa Rita de Caldas
+2935;11;Santa Rita de Jacutinga
+2936;11;Santa Rita de Minas
+2937;11;Santa Rita de Ibitipoca
+2938;11;Santa Rita do Itueto
+2939;11;Santa Rita do Sapucaí
+2940;11;Santa Rosa da Serra
+2941;11;Santa Vitória
+2942;11;Santo Antônio do Amparo
+2943;11;Santo Antônio do Aventureiro
+2944;11;Santo Antônio do Grama
+2945;11;Santo Antônio do Itambé
+2946;11;Santo Antônio do Jacinto
+2947;11;Santo Antônio do Monte
+2948;11;Santo Antônio do Retiro
+2949;11;Santo Antônio do Rio Abaixo
+2950;11;Santo Hipólito
+2951;11;Santos Dumont
+2952;11;São Bento Abade
+2953;11;São Brás do Suaçuí
+2954;11;São Domingos Das Dores
+2955;11;São Domingos do Prata
+2956;11;São Félix de Minas
+2957;11;São Francisco
+2958;11;São Francisco de Paula
+2959;11;São Francisco de Sales
+2960;11;São Francisco do Glória
+2961;11;São Geraldo
+2962;11;São Geraldo da Piedade
+2963;11;São Geraldo do Baixio
+2964;11;São Gonçalo do Abaeté
+2965;11;São Gonçalo do Pará
+2966;11;São Gonçalo do Rio Abaixo
+2967;11;São Gonçalo do Sapucaí
+2968;11;São Gotardo
+2969;11;São João Batista do Glória
+2970;11;São João da Lagoa
+2971;11;São João da Mata
+2972;11;São João da Ponte
+2973;11;São João Das Missões
+2974;11;São João Del Rei
+2975;11;São João do Manhuaçu
+2976;11;São João do Manteninha
+2977;11;São João do Oriente
+2978;11;São João do Pacuí
+2979;11;São João do Paraíso
+2980;11;São João Evangelista
+2981;11;São João Nepomuceno
+2982;11;São Joaquim de Bicas
+2983;11;São José da Barra
+2984;11;São José da Lapa
+2985;11;São José da Safira
+2986;11;São José da Varginha
+2987;11;São José do Alegre
+2988;11;São José do Divino
+2989;11;São José do Goiabal
+2990;11;São José do Jacuri
+2991;11;São José do Mantimento
+2992;11;São Lourenço
+2993;11;São Miguel do Anta
+2994;11;São Pedro da União
+2995;11;São Pedro Dos Ferros
+2996;11;São Pedro do Suaçuí
+2997;11;São Romão
+2998;11;São Roque de Minas
+2999;11;São Sebastião da Bela Vista
+3000;11;São Sebastião da Vargem Alegre
+3001;11;São Sebastião do Anta
+3002;11;São Sebastião do Maranhão
+3003;11;São Sebastião do Oeste
+3004;11;São Sebastião do Paraíso
+3005;11;São Sebastião do Rio Preto
+3006;11;São Sebastião do Rio Verde
+3007;11;São Tiago
+3008;11;São Tomás de Aquino
+3009;11;São Thomé Das Letras
+3010;11;São Vicente de Minas
+3011;11;Sapucaí-mirim
+3012;11;Sardoá
+3013;11;Sarzedo
+3014;11;Setubinha
+3015;11;Sem-peixe
+3016;11;Senador Amaral
+3017;11;Senador Cortes
+3018;11;Senador Firmino
+3019;11;Senador José Bento
+3020;11;Senador Modestino Gonçalves
+3021;11;Senhora de Oliveira
+3022;11;Senhora do Porto
+3023;11;Senhora Dos Remédios
+3024;11;Sericita
+3025;11;Seritinga
+3026;11;Serra Azul de Minas
+3027;11;Serra da Saudade
+3028;11;Serra Dos Aimorés
+3029;11;Serra do Salitre
+3030;11;Serrania
+3031;11;Serranópolis de Minas
+3032;11;Serranos
+3033;11;Serro
+3034;11;Sete Lagoas
+3035;11;Silveirânia
+3036;11;Silvianópolis
+3037;11;Simão Pereira
+3038;11;Simonésia
+3039;11;Sobrália
+3040;11;Soledade de Minas
+3041;11;Tabuleiro
+3042;11;Taiobeiras
+3043;11;Taparuba
+3044;11;Tapira
+3045;11;Tapiraí
+3046;11;Taquaraçu de Minas
+3047;11;Tarumirim
+3048;11;Teixeiras
+3049;11;Teófilo Otoni
+3050;11;Timóteo
+3051;11;Tiradentes
+3052;11;Tiros
+3053;11;Tocantins
+3054;11;Tocos do Moji
+3055;11;Toledo
+3056;11;Tombos
+3057;11;Três Corações
+3058;11;Três Marias
+3059;11;Três Pontas
+3060;11;Tumiritinga
+3061;11;Tupaciguara
+3062;11;Turmalina
+3063;11;Turvolândia
+3064;11;Ubá
+3065;11;Ubaí
+3066;11;Ubaporanga
+3067;11;Uberaba
+3068;11;Uberlândia
+3069;11;Umburatiba
+3070;11;Unaí
+3071;11;União de Minas
+3072;11;Uruana de Minas
+3073;11;Urucânia
+3074;11;Urucuia
+3075;11;Vargem Alegre
+3076;11;Vargem Bonita
+3077;11;Vargem Grande do Rio Pardo
+3078;11;Varginha
+3079;11;Varjão de Minas
+3080;11;Várzea da Palma
+3081;11;Varzelândia
+3082;11;Vazante
+3083;11;Verdelândia
+3084;11;Veredinha
+3085;11;Veríssimo
+3086;11;Vermelho Novo
+3087;11;Vespasiano
+3088;11;Viçosa
+3089;11;Vieiras
+3090;11;Mathias Lobato
+3091;11;Virgem da Lapa
+3092;11;Virgínia
+3093;11;Virginópolis
+3094;11;Virgolândia
+3095;11;Visconde do Rio Branco
+3096;11;Volta Grande
+3097;11;Wenceslau Braz
+3098;8;Afonso Cláudio
+3099;8;Águia Branca
+3100;8;Água Doce do Norte
+3101;8;Alegre
+3102;8;Alfredo Chaves
+3103;8;Alto Rio Novo
+3104;8;Anchieta
+3105;8;Apiacá
+3106;8;Aracruz
+3107;8;Atilio Vivacqua
+3108;8;Baixo Guandu
+3109;8;Barra de São Francisco
+3110;8;Boa Esperança
+3111;8;Bom Jesus do Norte
+3112;8;Brejetuba
+3113;8;Cachoeiro de Itapemirim
+3114;8;Cariacica
+3115;8;Castelo
+3116;8;Colatina
+3117;8;Conceição da Barra
+3118;8;Conceição do Castelo
+3119;8;Divino de São Lourenço
+3120;8;Domingos Martins
+3121;8;Dores do Rio Preto
+3122;8;Ecoporanga
+3123;8;Fundão
+3124;8;Governador Lindenberg
+3125;8;Guaçuí
+3126;8;Guarapari
+3127;8;Ibatiba
+3128;8;Ibiraçu
+3129;8;Ibitirama
+3130;8;Iconha
+3131;8;Irupi
+3132;8;Itaguaçu
+3133;8;Itapemirim
+3134;8;Itarana
+3135;8;Iúna
+3136;8;Jaguaré
+3137;8;Jerônimo Monteiro
+3138;8;João Neiva
+3139;8;Laranja da Terra
+3140;8;Linhares
+3141;8;Mantenópolis
+3142;8;Marataízes
+3143;8;Marechal Floriano
+3144;8;Marilândia
+3145;8;Mimoso do Sul
+3146;8;Montanha
+3147;8;Mucurici
+3148;8;Muniz Freire
+3149;8;Muqui
+3150;8;Nova Venécia
+3151;8;Pancas
+3152;8;Pedro Canário
+3153;8;Pinheiros
+3154;8;Piúma
+3155;8;Ponto Belo
+3156;8;Presidente Kennedy
+3157;8;Rio Bananal
+3158;8;Rio Novo do Sul
+3159;8;Santa Leopoldina
+3160;8;Santa Maria de Jetibá
+3161;8;Santa Teresa
+3162;8;São Domingos do Norte
+3163;8;São Gabriel da Palha
+3164;8;São José do Calçado
+3165;8;São Mateus
+3166;8;São Roque do Canaã
+3167;8;Serra
+3168;8;Sooretama
+3169;8;Vargem Alta
+3170;8;Venda Nova do Imigrante
+3171;8;Viana
+3172;8;Vila Pavão
+3173;8;Vila Valério
+3174;8;Vila Velha
+3175;8;Vitória
+3176;19;Angra Dos Reis
+3177;19;Aperibé
+3178;19;Araruama
+3179;19;Areal
+3180;19;Armação Dos Búzios
+3181;19;Arraial do Cabo
+3182;19;Barra do Piraí
+3183;19;Barra Mansa
+3184;19;Belford Roxo
+3185;19;Bom Jardim
+3186;19;Bom Jesus do Itabapoana
+3187;19;Cabo Frio
+3188;19;Cachoeiras de Macacu
+3189;19;Cambuci
+3190;19;Carapebus
+3191;19;Comendador Levy Gasparian
+3192;19;Campos Dos Goytacazes
+3193;19;Cantagalo
+3194;19;Cardoso Moreira
+3195;19;Carmo
+3196;19;Casimiro de Abreu
+3197;19;Conceição de Macabu
+3198;19;Cordeiro
+3199;19;Duas Barras
+3200;19;Duque de Caxias
+3201;19;Engenheiro Paulo de Frontin
+3202;19;Guapimirim
+3203;19;Iguaba Grande
+3204;19;Itaboraí
+3205;19;Itaguaí
+3206;19;Italva
+3207;19;Itaocara
+3208;19;Itaperuna
+3209;19;Itatiaia
+3210;19;Japeri
+3211;19;Laje do Muriaé
+3212;19;Macaé
+3213;19;Macuco
+3214;19;Magé
+3215;19;Mangaratiba
+3216;19;Maricá
+3217;19;Mendes
+3218;19;Mesquita
+3219;19;Miguel Pereira
+3220;19;Miracema
+3221;19;Natividade
+3222;19;Nilópolis
+3223;19;Niterói
+3224;19;Nova Friburgo
+3225;19;Nova Iguaçu
+3226;19;Paracambi
+3227;19;Paraíba do Sul
+3228;19;Parati
+3229;19;Paty do Alferes
+3230;19;Petrópolis
+3231;19;Pinheiral
+3232;19;Piraí
+3233;19;Porciúncula
+3234;19;Porto Real
+3235;19;Quatis
+3236;19;Queimados
+3237;19;Quissamã
+3238;19;Resende
+3239;19;Rio Bonito
+3240;19;Rio Claro
+3241;19;Rio Das Flores
+3242;19;Rio Das Ostras
+3243;19;Rio de Janeiro
+3244;19;Santa Maria Madalena
+3245;19;Santo Antônio de Pádua
+3246;19;São Francisco de Itabapoana
+3247;19;São Fidélis
+3248;19;São Gonçalo
+3249;19;São João da Barra
+3250;19;São João de Meriti
+3251;19;São José de Ubá
+3252;19;São José do Vale do Rio Preto
+3253;19;São Pedro da Aldeia
+3254;19;São Sebastião do Alto
+3255;19;Sapucaia
+3256;19;Saquarema
+3257;19;Seropédica
+3258;19;Silva Jardim
+3259;19;Sumidouro
+3260;19;Tanguá
+3261;19;Teresópolis
+3262;19;Trajano de Morais
+3263;19;Três Rios
+3264;19;Valença
+3265;19;Varre-sai
+3266;19;Vassouras
+3267;19;Volta Redonda
+3268;26;Adamantina
+3269;26;Adolfo
+3270;26;Aguaí
+3271;26;Águas da Prata
+3272;26;Águas de Lindóia
+3273;26;Águas de Santa Bárbara
+3274;26;Águas de São Pedro
+3275;26;Agudos
+3276;26;Alambari
+3277;26;Alfredo Marcondes
+3278;26;Altair
+3279;26;Altinópolis
+3280;26;Alto Alegre
+3281;26;Alumínio
+3282;26;Álvares Florence
+3283;26;Álvares Machado
+3284;26;Álvaro de Carvalho
+3285;26;Alvinlândia
+3286;26;Americana
+3287;26;Américo Brasiliense
+3288;26;Américo de Campos
+3289;26;Amparo
+3290;26;Analândia
+3291;26;Andradina
+3292;26;Angatuba
+3293;26;Anhembi
+3294;26;Anhumas
+3295;26;Aparecida
+3296;26;Aparecida D´oeste
+3297;26;Apiaí
+3298;26;Araçariguama
+3299;26;Araçatuba
+3300;26;Araçoiaba da Serra
+3301;26;Aramina
+3302;26;Arandu
+3303;26;Arapeí
+3304;26;Araraquara
+3305;26;Araras
+3306;26;Arco-íris
+3307;26;Arealva
+3308;26;Areias
+3309;26;Areiópolis
+3310;26;Ariranha
+3311;26;Artur Nogueira
+3312;26;Arujá
+3313;26;Aspásia
+3314;26;Assis
+3315;26;Atibaia
+3316;26;Auriflama
+3317;26;Avaí
+3318;26;Avanhandava
+3319;26;Avaré
+3320;26;Bady Bassitt
+3321;26;Balbinos
+3322;26;Bálsamo
+3323;26;Bananal
+3324;26;Barão de Antonina
+3325;26;Barbosa
+3326;26;Bariri
+3327;26;Barra Bonita
+3328;26;Barra do Chapéu
+3329;26;Barra do Turvo
+3330;26;Barretos
+3331;26;Barrinha
+3332;26;Barueri
+3333;26;Bastos
+3334;26;Batatais
+3335;26;Bauru
+3336;26;Bebedouro
+3337;26;Bento de Abreu
+3338;26;Bernardino de Campos
+3339;26;Bertioga
+3340;26;Bilac
+3341;26;Birigui
+3342;26;Biritiba-mirim
+3343;26;Boa Esperança do Sul
+3344;26;Bocaina
+3345;26;Bofete
+3346;26;Boituva
+3347;26;Bom Jesus Dos Perdões
+3348;26;Bom Sucesso de Itararé
+3349;26;Borá
+3350;26;Boracéia
+3351;26;Borborema
+3352;26;Borebi
+3353;26;Botucatu
+3354;26;Bragança Paulista
+3355;26;Braúna
+3356;26;Brejo Alegre
+3357;26;Brodowski
+3358;26;Brotas
+3359;26;Buri
+3360;26;Buritama
+3361;26;Buritizal
+3362;26;Cabrália Paulista
+3363;26;Cabreúva
+3364;26;Caçapava
+3365;26;Cachoeira Paulista
+3366;26;Caconde
+3367;26;Cafelândia
+3368;26;Caiabu
+3369;26;Caieiras
+3370;26;Caiuá
+3371;26;Cajamar
+3372;26;Cajati
+3373;26;Cajobi
+3374;26;Cajuru
+3375;26;Campina do Monte Alegre
+3376;26;Campinas
+3377;26;Campo Limpo Paulista
+3378;26;Campos do Jordão
+3379;26;Campos Novos Paulista
+3380;26;Cananéia
+3381;26;Canas
+3382;26;Cândido Mota
+3383;26;Cândido Rodrigues
+3384;26;Canitar
+3385;26;Capão Bonito
+3386;26;Capela do Alto
+3387;26;Capivari
+3388;26;Caraguatatuba
+3389;26;Carapicuíba
+3390;26;Cardoso
+3391;26;Casa Branca
+3392;26;Cássia Dos Coqueiros
+3393;26;Castilho
+3394;26;Catanduva
+3395;26;Catiguá
+3396;26;Cedral
+3397;26;Cerqueira César
+3398;26;Cerquilho
+3399;26;Cesário Lange
+3400;26;Charqueada
+3401;26;Clementina
+3402;26;Colina
+3403;26;Colômbia
+3404;26;Conchal
+3405;26;Conchas
+3406;26;Cordeirópolis
+3407;26;Coroados
+3408;26;Coronel Macedo
+3409;26;Corumbataí
+3410;26;Cosmópolis
+3411;26;Cosmorama
+3412;26;Cotia
+3413;26;Cravinhos
+3414;26;Cristais Paulista
+3415;26;Cruzália
+3416;26;Cruzeiro
+3417;26;Cubatão
+3418;26;Cunha
+3419;26;Descalvado
+3420;26;Diadema
+3421;26;Dirce Reis
+3422;26;Divinolândia
+3423;26;Dobrada
+3424;26;Dois Córregos
+3425;26;Dolcinópolis
+3426;26;Dourado
+3427;26;Dracena
+3428;26;Duartina
+3429;26;Dumont
+3430;26;Echaporã
+3431;26;Eldorado
+3432;26;Elias Fausto
+3433;26;Elisiário
+3434;26;Embaúba
+3435;26;Embu
+3436;26;Embu-guaçu
+3437;26;Emilianópolis
+3438;26;Engenheiro Coelho
+3439;26;Espírito Santo do Pinhal
+3440;26;Espírito Santo do Turvo
+3441;26;Estrela D´oeste
+3442;26;Estrela do Norte
+3443;26;Euclides da Cunha Paulista
+3444;26;Fartura
+3445;26;Fernandópolis
+3446;26;Fernando Prestes
+3447;26;Fernão
+3448;26;Ferraz de Vasconcelos
+3449;26;Flora Rica
+3450;26;Floreal
+3451;26;Flórida Paulista
+3452;26;Florínia
+3453;26;Franca
+3454;26;Francisco Morato
+3455;26;Franco da Rocha
+3456;26;Gabriel Monteiro
+3457;26;Gália
+3458;26;Garça
+3459;26;Gastão Vidigal
+3460;26;Gavião Peixoto
+3461;26;General Salgado
+3462;26;Getulina
+3463;26;Glicério
+3464;26;Guaiçara
+3465;26;Guaimbê
+3466;26;Guaíra
+3467;26;Guapiaçu
+3468;26;Guapiara
+3469;26;Guará
+3470;26;Guaraçaí
+3471;26;Guaraci
+3472;26;Guarani D´oeste
+3473;26;Guarantã
+3474;26;Guararapes
+3475;26;Guararema
+3476;26;Guaratinguetá
+3477;26;Guareí
+3478;26;Guariba
+3479;26;Guarujá
+3480;26;Guarulhos
+3481;26;Guatapará
+3482;26;Guzolândia
+3483;26;Herculândia
+3484;26;Holambra
+3485;26;Hortolândia
+3486;26;Iacanga
+3487;26;Iacri
+3488;26;Iaras
+3489;26;Ibaté
+3490;26;Ibirá
+3491;26;Ibirarema
+3492;26;Ibitinga
+3493;26;Ibiúna
+3494;26;Icém
+3495;26;Iepê
+3496;26;Igaraçu do Tietê
+3497;26;Igarapava
+3498;26;Igaratá
+3499;26;Iguape
+3500;26;Ilhabela
+3501;26;Ilha Comprida
+3502;26;Ilha Solteira
+3503;26;Indaiatuba
+3504;26;Indiana
+3505;26;Indiaporã
+3506;26;Inúbia Paulista
+3507;26;Ipaussu
+3508;26;Iperó
+3509;26;Ipeúna
+3510;26;Ipiguá
+3511;26;Iporanga
+3512;26;Ipuã
+3513;26;Iracemápolis
+3514;26;Irapuã
+3515;26;Irapuru
+3516;26;Itaberá
+3517;26;Itaí
+3518;26;Itajobi
+3519;26;Itaju
+3520;26;Itanhaém
+3521;26;Itaóca
+3522;26;Itapecerica da Serra
+3523;26;Itapetininga
+3524;26;Itapeva
+3525;26;Itapevi
+3526;26;Itapira
+3527;26;Itapirapuã Paulista
+3528;26;Itápolis
+3529;26;Itaporanga
+3530;26;Itapuí
+3531;26;Itapura
+3532;26;Itaquaquecetuba
+3533;26;Itararé
+3534;26;Itariri
+3535;26;Itatiba
+3536;26;Itatinga
+3537;26;Itirapina
+3538;26;Itirapuã
+3539;26;Itobi
+3540;26;Itu
+3541;26;Itupeva
+3542;26;Ituverava
+3543;26;Jaborandi
+3544;26;Jaboticabal
+3545;26;Jacareí
+3546;26;Jaci
+3547;26;Jacupiranga
+3548;26;Jaguariúna
+3549;26;Jales
+3550;26;Jambeiro
+3551;26;Jandira
+3552;26;Jardinópolis
+3553;26;Jarinu
+3554;26;Jaú
+3555;26;Jeriquara
+3556;26;Joanópolis
+3557;26;João Ramalho
+3558;26;José Bonifácio
+3559;26;Júlio Mesquita
+3560;26;Jumirim
+3561;26;Jundiaí
+3562;26;Junqueirópolis
+3563;26;Juquiá
+3564;26;Juquitiba
+3565;26;Lagoinha
+3566;26;Laranjal Paulista
+3567;26;Lavínia
+3568;26;Lavrinhas
+3569;26;Leme
+3570;26;Lençóis Paulista
+3571;26;Limeira
+3572;26;Lindóia
+3573;26;Lins
+3574;26;Lorena
+3575;26;Lourdes
+3576;26;Louveira
+3577;26;Lucélia
+3578;26;Lucianópolis
+3579;26;Luís Antônio
+3580;26;Luiziânia
+3581;26;Lupércio
+3582;26;Lutécia
+3583;26;Macatuba
+3584;26;Macaubal
+3585;26;Macedônia
+3586;26;Magda
+3587;26;Mairinque
+3588;26;Mairiporã
+3589;26;Manduri
+3590;26;Marabá Paulista
+3591;26;Maracaí
+3592;26;Marapoama
+3593;26;Mariápolis
+3594;26;Marília
+3595;26;Marinópolis
+3596;26;Martinópolis
+3597;26;Matão
+3598;26;Mauá
+3599;26;Mendonça
+3600;26;Meridiano
+3601;26;Mesópolis
+3602;26;Miguelópolis
+3603;26;Mineiros do Tietê
+3604;26;Miracatu
+3605;26;Mira Estrela
+3606;26;Mirandópolis
+3607;26;Mirante do Paranapanema
+3608;26;Mirassol
+3609;26;Mirassolândia
+3610;26;Mococa
+3611;26;Moji Das Cruzes
+3612;26;Mogi Guaçu
+3613;26;Moji-mirim
+3614;26;Mombuca
+3615;26;Monções
+3616;26;Mongaguá
+3617;26;Monte Alegre do Sul
+3618;26;Monte Alto
+3619;26;Monte Aprazível
+3620;26;Monte Azul Paulista
+3621;26;Monte Castelo
+3622;26;Monteiro Lobato
+3623;26;Monte Mor
+3624;26;Morro Agudo
+3625;26;Morungaba
+3626;26;Motuca
+3627;26;Murutinga do Sul
+3628;26;Nantes
+3629;26;Narandiba
+3630;26;Natividade da Serra
+3631;26;Nazaré Paulista
+3632;26;Neves Paulista
+3633;26;Nhandeara
+3634;26;Nipoã
+3635;26;Nova Aliança
+3636;26;Nova Campina
+3637;26;Nova Canaã Paulista
+3638;26;Nova Castilho
+3639;26;Nova Europa
+3640;26;Nova Granada
+3641;26;Nova Guataporanga
+3642;26;Nova Independência
+3643;26;Novais
+3644;26;Nova Luzitânia
+3645;26;Nova Odessa
+3646;26;Novo Horizonte
+3647;26;Nuporanga
+3648;26;Ocauçu
+3649;26;Óleo
+3650;26;Olímpia
+3651;26;Onda Verde
+3652;26;Oriente
+3653;26;Orindiúva
+3654;26;Orlândia
+3655;26;Osasco
+3656;26;Oscar Bressane
+3657;26;Osvaldo Cruz
+3658;26;Ourinhos
+3659;26;Ouroeste
+3660;26;Ouro Verde
+3661;26;Pacaembu
+3662;26;Palestina
+3663;26;Palmares Paulista
+3664;26;Palmeira D´oeste
+3665;26;Palmital
+3666;26;Panorama
+3667;26;Paraguaçu Paulista
+3668;26;Paraibuna
+3669;26;Paraíso
+3670;26;Paranapanema
+3671;26;Paranapuã
+3672;26;Parapuã
+3673;26;Pardinho
+3674;26;Pariquera-açu
+3675;26;Parisi
+3676;26;Patrocínio Paulista
+3677;26;Paulicéia
+3678;26;Paulínia
+3679;26;Paulistânia
+3680;26;Paulo de Faria
+3681;26;Pederneiras
+3682;26;Pedra Bela
+3683;26;Pedranópolis
+3684;26;Pedregulho
+3685;26;Pedreira
+3686;26;Pedrinhas Paulista
+3687;26;Pedro de Toledo
+3688;26;Penápolis
+3689;26;Pereira Barreto
+3690;26;Pereiras
+3691;26;Peruíbe
+3692;26;Piacatu
+3693;26;Piedade
+3694;26;Pilar do Sul
+3695;26;Pindamonhangaba
+3696;26;Pindorama
+3697;26;Pinhalzinho
+3698;26;Piquerobi
+3699;26;Piquete
+3700;26;Piracaia
+3701;26;Piracicaba
+3702;26;Piraju
+3703;26;Pirajuí
+3704;26;Pirangi
+3705;26;Pirapora do Bom Jesus
+3706;26;Pirapozinho
+3707;26;Pirassununga
+3708;26;Piratininga
+3709;26;Pitangueiras
+3710;26;Planalto
+3711;26;Platina
+3712;26;Poá
+3713;26;Poloni
+3714;26;Pompéia
+3715;26;Pongaí
+3716;26;Pontal
+3717;26;Pontalinda
+3718;26;Pontes Gestal
+3719;26;Populina
+3720;26;Porangaba
+3721;26;Porto Feliz
+3722;26;Porto Ferreira
+3723;26;Potim
+3724;26;Potirendaba
+3725;26;Pracinha
+3726;26;Pradópolis
+3727;26;Praia Grande
+3728;26;Pratânia
+3729;26;Presidente Alves
+3730;26;Presidente Bernardes
+3731;26;Presidente Epitácio
+3732;26;Presidente Prudente
+3733;26;Presidente Venceslau
+3734;26;Promissão
+3735;26;Quadra
+3736;26;Quatá
+3737;26;Queiroz
+3738;26;Queluz
+3739;26;Quintana
+3740;26;Rafard
+3741;26;Rancharia
+3742;26;Redenção da Serra
+3743;26;Regente Feijó
+3744;26;Reginópolis
+3745;26;Registro
+3746;26;Restinga
+3747;26;Ribeira
+3748;26;Ribeirão Bonito
+3749;26;Ribeirão Branco
+3750;26;Ribeirão Corrente
+3751;26;Ribeirão do Sul
+3752;26;Ribeirão Dos Índios
+3753;26;Ribeirão Grande
+3754;26;Ribeirão Pires
+3755;26;Ribeirão Preto
+3756;26;Riversul
+3757;26;Rifaina
+3758;26;Rincão
+3759;26;Rinópolis
+3760;26;Rio Claro
+3761;26;Rio Das Pedras
+3762;26;Rio Grande da Serra
+3763;26;Riolândia
+3764;26;Rosana
+3765;26;Roseira
+3766;26;Rubiácea
+3767;26;Rubinéia
+3768;26;Sabino
+3769;26;Sagres
+3770;26;Sales
+3771;26;Sales Oliveira
+3772;26;Salesópolis
+3773;26;Salmourão
+3774;26;Saltinho
+3775;26;Salto
+3776;26;Salto de Pirapora
+3777;26;Salto Grande
+3778;26;Sandovalina
+3779;26;Santa Adélia
+3780;26;Santa Albertina
+3781;26;Santa Bárbara D´oeste
+3782;26;Santa Branca
+3783;26;Santa Clara D´oeste
+3784;26;Santa Cruz da Conceição
+3785;26;Santa Cruz da Esperança
+3786;26;Santa Cruz Das Palmeiras
+3787;26;Santa Cruz do Rio Pardo
+3788;26;Santa Ernestina
+3789;26;Santa fé do Sul
+3790;26;Santa Gertrudes
+3791;26;Santa Isabel
+3792;26;Santa Lúcia
+3793;26;Santa Maria da Serra
+3794;26;Santa Mercedes
+3795;26;Santana da Ponte Pensa
+3796;26;Santana de Parnaíba
+3797;26;Santa Rita D´oeste
+3798;26;Santa Rita do Passa Quatro
+3799;26;Santa Rosa de Viterbo
+3800;26;Santa Salete
+3801;26;Santo Anastácio
+3802;26;Santo André
+3803;26;Santo Antônio da Alegria
+3804;26;Santo Antônio de Posse
+3805;26;Santo Antônio do Aracanguá
+3806;26;Santo Antônio do Jardim
+3807;26;Santo Antônio do Pinhal
+3808;26;Santo Expedito
+3809;26;Santópolis do Aguapeí
+3810;26;Santos
+3811;26;São Bento do Sapucaí
+3812;26;São Bernardo do Campo
+3813;26;São Caetano do Sul
+3814;26;São Carlos
+3815;26;São Francisco
+3816;26;São João da Boa Vista
+3817;26;São João Das Duas Pontes
+3818;26;São João de Iracema
+3819;26;São João do Pau D´alho
+3820;26;São Joaquim da Barra
+3821;26;São José da Bela Vista
+3822;26;São José do Barreiro
+3823;26;São José do Rio Pardo
+3824;26;São José do Rio Preto
+3825;26;São José Dos Campos
+3826;26;São Lourenço da Serra
+3827;26;São Luís do Paraitinga
+3828;26;São Manuel
+3829;26;São Miguel Arcanjo
+3830;26;São Paulo
+3831;26;São Pedro
+3832;26;São Pedro do Turvo
+3833;26;São Roque
+3834;26;São Sebastião
+3835;26;São Sebastião da Grama
+3836;26;São Simão
+3837;26;São Vicente
+3838;26;Sarapuí
+3839;26;Sarutaiá
+3840;26;Sebastianópolis do Sul
+3841;26;Serra Azul
+3842;26;Serrana
+3843;26;Serra Negra
+3844;26;Sertãozinho
+3845;26;Sete Barras
+3846;26;Severínia
+3847;26;Silveiras
+3848;26;Socorro
+3849;26;Sorocaba
+3850;26;Sud Mennucci
+3851;26;Sumaré
+3852;26;Suzano
+3853;26;Suzanápolis
+3854;26;Tabapuã
+3855;26;Tabatinga
+3856;26;Taboão da Serra
+3857;26;Taciba
+3858;26;Taguaí
+3859;26;Taiaçu
+3860;26;Taiúva
+3861;26;Tambaú
+3862;26;Tanabi
+3863;26;Tapiraí
+3864;26;Tapiratiba
+3865;26;Taquaral
+3866;26;Taquaritinga
+3867;26;Taquarituba
+3868;26;Taquarivaí
+3869;26;Tarabai
+3870;26;Tarumã
+3871;26;Tatuí
+3872;26;Taubaté
+3873;26;Tejupá
+3874;26;Teodoro Sampaio
+3875;26;Terra Roxa
+3876;26;Tietê
+3877;26;Timburi
+3878;26;Torre de Pedra
+3879;26;Torrinha
+3880;26;Trabiju
+3881;26;Tremembé
+3882;26;Três Fronteiras
+3883;26;Tuiuti
+3884;26;Tupã
+3885;26;Tupi Paulista
+3886;26;Turiúba
+3887;26;Turmalina
+3888;26;Ubarana
+3889;26;Ubatuba
+3890;26;Ubirajara
+3891;26;Uchoa
+3892;26;União Paulista
+3893;26;Urânia
+3894;26;Uru
+3895;26;Urupês
+3896;26;Valentim Gentil
+3897;26;Valinhos
+3898;26;Valparaíso
+3899;26;Vargem
+3900;26;Vargem Grande do Sul
+3901;26;Vargem Grande Paulista
+3902;26;Várzea Paulista
+3903;26;Vera Cruz
+3904;26;Vinhedo
+3905;26;Viradouro
+3906;26;Vista Alegre do Alto
+3907;26;Vitória Brasil
+3908;26;Votorantim
+3909;26;Votuporanga
+3910;26;Zacarias
+3911;26;Chavantes
+3912;26;Estiva Gerbi
+3913;18;Abatiá
+3914;18;Adrianópolis
+3915;18;Agudos do Sul
+3916;18;Almirante Tamandaré
+3917;18;Altamira do Paraná
+3918;18;Altônia
+3919;18;Alto Paraná
+3920;18;Alto Piquiri
+3921;18;Alvorada do Sul
+3922;18;Amaporã
+3923;18;Ampére
+3924;18;Anahy
+3925;18;Andirá
+3926;18;Ângulo
+3927;18;Antonina
+3928;18;Antônio Olinto
+3929;18;Apucarana
+3930;18;Arapongas
+3931;18;Arapoti
+3932;18;Arapuã
+3933;18;Araruna
+3934;18;Araucária
+3935;18;Ariranha do Ivaí
+3936;18;Assaí
+3937;18;Assis Chateaubriand
+3938;18;Astorga
+3939;18;Atalaia
+3940;18;Balsa Nova
+3941;18;Bandeirantes
+3942;18;Barbosa Ferraz
+3943;18;Barracão
+3944;18;Barra do Jacaré
+3945;18;Bela Vista da Caroba
+3946;18;Bela Vista do Paraíso
+3947;18;Bituruna
+3948;18;Boa Esperança
+3949;18;Boa Esperança do Iguaçu
+3950;18;Boa Ventura de São Roque
+3951;18;Boa Vista da Aparecida
+3952;18;Bocaiúva do Sul
+3953;18;Bom Jesus do Sul
+3954;18;Bom Sucesso
+3955;18;Bom Sucesso do Sul
+3956;18;Borrazópolis
+3957;18;Braganey
+3958;18;Brasilândia do Sul
+3959;18;Cafeara
+3960;18;Cafelândia
+3961;18;Cafezal do Sul
+3962;18;Califórnia
+3963;18;Cambará
+3964;18;Cambé
+3965;18;Cambira
+3966;18;Campina da Lagoa
+3967;18;Campina do Simão
+3968;18;Campina Grande do Sul
+3969;18;Campo Bonito
+3970;18;Campo do Tenente
+3971;18;Campo Largo
+3972;18;Campo Magro
+3973;18;Campo Mourão
+3974;18;Cândido de Abreu
+3975;18;Candói
+3976;18;Cantagalo
+3977;18;Capanema
+3978;18;Capitão Leônidas Marques
+3979;18;Carambeí
+3980;18;Carlópolis
+3981;18;Cascavel
+3982;18;Castro
+3983;18;Catanduvas
+3984;18;Centenário do Sul
+3985;18;Cerro Azul
+3986;18;Céu Azul
+3987;18;Chopinzinho
+3988;18;Cianorte
+3989;18;Cidade Gaúcha
+3990;18;Clevelândia
+3991;18;Colombo
+3992;18;Colorado
+3993;18;Congonhinhas
+3994;18;Conselheiro Mairinck
+3995;18;Contenda
+3996;18;Corbélia
+3997;18;Cornélio Procópio
+3998;18;Coronel Domingos Soares
+3999;18;Coronel Vivida
+4000;18;Corumbataí do Sul
+4001;18;Cruzeiro do Iguaçu
+4002;18;Cruzeiro do Oeste
+4003;18;Cruzeiro do Sul
+4004;18;Cruz Machado
+4005;18;Cruzmaltina
+4006;18;Curitiba
+4007;18;Curiúva
+4008;18;Diamante do Norte
+4009;18;Diamante do Sul
+4010;18;Diamante D´oeste
+4011;18;Dois Vizinhos
+4012;18;Douradina
+4013;18;Doutor Camargo
+4014;18;Enéas Marques
+4015;18;Engenheiro Beltrão
+4016;18;Esperança Nova
+4017;18;Entre Rios do Oeste
+4018;18;Espigão Alto do Iguaçu
+4019;18;Farol
+4020;18;Faxinal
+4021;18;Fazenda Rio Grande
+4022;18;Fênix
+4023;18;Fernandes Pinheiro
+4024;18;Figueira
+4025;18;Floraí
+4026;18;Flor da Serra do Sul
+4027;18;Floresta
+4028;18;Florestópolis
+4029;18;Flórida
+4030;18;Formosa do Oeste
+4031;18;Foz do Iguaçu
+4032;18;Francisco Alves
+4033;18;Francisco Beltrão
+4034;18;Foz do Jordão
+4035;18;General Carneiro
+4036;18;Godoy Moreira
+4037;18;Goioerê
+4038;18;Goioxim
+4039;18;Grandes Rios
+4040;18;Guaíra
+4041;18;Guairaçá
+4042;18;Guamiranga
+4043;18;Guapirama
+4044;18;Guaporema
+4045;18;Guaraci
+4046;18;Guaraniaçu
+4047;18;Guarapuava
+4048;18;Guaraqueçaba
+4049;18;Guaratuba
+4050;18;Honório Serpa
+4051;18;Ibaiti
+4052;18;Ibema
+4053;18;Ibiporã
+4054;18;Icaraíma
+4055;18;Iguaraçu
+4056;18;Iguatu
+4057;18;Imbaú
+4058;18;Imbituva
+4059;18;Inácio Martins
+4060;18;Inajá
+4061;18;Indianópolis
+4062;18;Ipiranga
+4063;18;Iporã
+4064;18;Iracema do Oeste
+4065;18;Irati
+4066;18;Iretama
+4067;18;Itaguajé
+4068;18;Itaipulândia
+4069;18;Itambaracá
+4070;18;Itambé
+4071;18;Itapejara D´oeste
+4072;18;Itaperuçu
+4073;18;Itaúna do Sul
+4074;18;Ivaí
+4075;18;Ivaiporã
+4076;18;Ivaté
+4077;18;Ivatuba
+4078;18;Jaboti
+4079;18;Jacarezinho
+4080;18;Jaguapitã
+4081;18;Jaguariaíva
+4082;18;Jandaia do Sul
+4083;18;Janiópolis
+4084;18;Japira
+4085;18;Japurá
+4086;18;Jardim Alegre
+4087;18;Jardim Olinda
+4088;18;Jataizinho
+4089;18;Jesuítas
+4090;18;Joaquim Távora
+4091;18;Jundiaí do Sul
+4092;18;Juranda
+4093;18;Jussara
+4094;18;Kaloré
+4095;18;Lapa
+4096;18;Laranjal
+4097;18;Laranjeiras do Sul
+4098;18;Leópolis
+4099;18;Lidianópolis
+4100;18;Lindoeste
+4101;18;Loanda
+4102;18;Lobato
+4103;18;Londrina
+4104;18;Luiziana
+4105;18;Lunardelli
+4106;18;Lupionópolis
+4107;18;Mallet
+4108;18;Mamborê
+4109;18;Mandaguaçu
+4110;18;Mandaguari
+4111;18;Mandirituba
+4112;18;Manfrinópolis
+4113;18;Mangueirinha
+4114;18;Manoel Ribas
+4115;18;Marechal Cândido Rondon
+4116;18;Maria Helena
+4117;18;Marialva
+4118;18;Marilândia do Sul
+4119;18;Marilena
+4120;18;Mariluz
+4121;18;Maringá
+4122;18;Mariópolis
+4123;18;Maripá
+4124;18;Marmeleiro
+4125;18;Marquinho
+4126;18;Marumbi
+4127;18;Matelândia
+4128;18;Matinhos
+4129;18;Mato Rico
+4130;18;Mauá da Serra
+4131;18;Medianeira
+4132;18;Mercedes
+4133;18;Mirador
+4134;18;Miraselva
+4135;18;Missal
+4136;18;Moreira Sales
+4137;18;Morretes
+4138;18;Munhoz de Melo
+4139;18;Nossa Senhora Das Graças
+4140;18;Nova Aliança do Ivaí
+4141;18;Nova América da Colina
+4142;18;Nova Aurora
+4143;18;Nova Cantu
+4144;18;Nova Esperança
+4145;18;Nova Esperança do Sudoeste
+4146;18;Nova Fátima
+4147;18;Nova Laranjeiras
+4148;18;Nova Londrina
+4149;18;Nova Olímpia
+4150;18;Nova Santa Bárbara
+4151;18;Nova Santa Rosa
+4152;18;Nova Prata do Iguaçu
+4153;18;Nova Tebas
+4154;18;Novo Itacolomi
+4155;18;Ortigueira
+4156;18;Ourizona
+4157;18;Ouro Verde do Oeste
+4158;18;Paiçandu
+4159;18;Palmas
+4160;18;Palmeira
+4161;18;Palmital
+4162;18;Palotina
+4163;18;Paraíso do Norte
+4164;18;Paranacity
+4165;18;Paranaguá
+4166;18;Paranapoema
+4167;18;Paranavaí
+4168;18;Pato Bragado
+4169;18;Pato Branco
+4170;18;Paula Freitas
+4171;18;Paulo Frontin
+4172;18;Peabiru
+4173;18;Perobal
+4174;18;Pérola
+4175;18;Pérola D´oeste
+4176;18;Piên
+4177;18;Pinhais
+4178;18;Pinhalão
+4179;18;Pinhal de São Bento
+4180;18;Pinhão
+4181;18;Piraí do Sul
+4182;18;Piraquara
+4183;18;Pitanga
+4184;18;Pitangueiras
+4185;18;Planaltina do Paraná
+4186;18;Planalto
+4187;18;Ponta Grossa
+4188;18;Pontal do Paraná
+4189;18;Porecatu
+4190;18;Porto Amazonas
+4191;18;Porto Barreiro
+4192;18;Porto Rico
+4193;18;Porto Vitória
+4194;18;Prado Ferreira
+4195;18;Pranchita
+4196;18;Presidente Castelo Branco
+4197;18;Primeiro de Maio
+4198;18;Prudentópolis
+4199;18;Quarto Centenário
+4200;18;Quatiguá
+4201;18;Quatro Barras
+4202;18;Quatro Pontes
+4203;18;Quedas do Iguaçu
+4204;18;Querência do Norte
+4205;18;Quinta do Sol
+4206;18;Quitandinha
+4207;18;Ramilândia
+4208;18;Rancho Alegre
+4209;18;Rancho Alegre D´oeste
+4210;18;Realeza
+4211;18;Rebouças
+4212;18;Renascença
+4213;18;Reserva
+4214;18;Reserva do Iguaçu
+4215;18;Ribeirão Claro
+4216;18;Ribeirão do Pinhal
+4217;18;Rio Azul
+4218;18;Rio Bom
+4219;18;Rio Bonito do Iguaçu
+4220;18;Rio Branco do Ivaí
+4221;18;Rio Branco do Sul
+4222;18;Rio Negro
+4223;18;Rolândia
+4224;18;Roncador
+4225;18;Rondon
+4226;18;Rosário do Ivaí
+4227;18;Sabáudia
+4228;18;Salgado Filho
+4229;18;Salto do Itararé
+4230;18;Salto do Lontra
+4231;18;Santa Amélia
+4232;18;Santa Cecília do Pavão
+4233;18;Santa Cruz de Monte Castelo
+4234;18;Santa fé
+4235;18;Santa Helena
+4236;18;Santa Inês
+4237;18;Santa Isabel do Ivaí
+4238;18;Santa Izabel do Oeste
+4239;18;Santa Lúcia
+4240;18;Santa Maria do Oeste
+4241;18;Santa Mariana
+4242;18;Santa Mônica
+4243;18;Santana do Itararé
+4244;18;Santa Tereza do Oeste
+4245;18;Santa Terezinha de Itaipu
+4246;18;Santo Antônio da Platina
+4247;18;Santo Antônio do Caiuá
+4248;18;Santo Antônio do Paraíso
+4249;18;Santo Antônio do Sudoeste
+4250;18;Santo Inácio
+4251;18;São Carlos do Ivaí
+4252;18;São Jerônimo da Serra
+4253;18;São João
+4254;18;São João do Caiuá
+4255;18;São João do Ivaí
+4256;18;São João do Triunfo
+4257;18;São Jorge D´oeste
+4258;18;São Jorge do Ivaí
+4259;18;São Jorge do Patrocínio
+4260;18;São José da Boa Vista
+4261;18;São José Das Palmeiras
+4262;18;São José Dos Pinhais
+4263;18;São Manoel do Paraná
+4264;18;São Mateus do Sul
+4265;18;São Miguel do Iguaçu
+4266;18;São Pedro do Iguaçu
+4267;18;São Pedro do Ivaí
+4268;18;São Pedro do Paraná
+4269;18;São Sebastião da Amoreira
+4270;18;São Tomé
+4271;18;Sapopema
+4272;18;Sarandi
+4273;18;Saudade do Iguaçu
+4274;18;Sengés
+4275;18;Serranópolis do Iguaçu
+4276;18;Sertaneja
+4277;18;Sertanópolis
+4278;18;Siqueira Campos
+4279;18;Sulina
+4280;18;Tamarana
+4281;18;Tamboara
+4282;18;Tapejara
+4283;18;Tapira
+4284;18;Teixeira Soares
+4285;18;Telêmaco Borba
+4286;18;Terra Boa
+4287;18;Terra Rica
+4288;18;Terra Roxa
+4289;18;Tibagi
+4290;18;Tijucas do Sul
+4291;18;Toledo
+4292;18;Tomazina
+4293;18;Três Barras do Paraná
+4294;18;Tunas do Paraná
+4295;18;Tuneiras do Oeste
+4296;18;Tupãssi
+4297;18;Turvo
+4298;18;Ubiratã
+4299;18;Umuarama
+4300;18;União da Vitória
+4301;18;Uniflor
+4302;18;Uraí
+4303;18;Wenceslau Braz
+4304;18;Ventania
+4305;18;Vera Cruz do Oeste
+4306;18;Verê
+4307;18;Vila Alta
+4308;18;Doutor Ulysses
+4309;18;Virmond
+4310;18;Vitorino
+4311;18;Xambrê
+4312;24;Abdon Batista
+4313;24;Abelardo Luz
+4314;24;Agrolândia
+4315;24;Agronômica
+4316;24;Água Doce
+4317;24;Águas de Chapecó
+4318;24;Águas Frias
+4319;24;Águas Mornas
+4320;24;Alfredo Wagner
+4321;24;Alto Bela Vista
+4322;24;Anchieta
+4323;24;Angelina
+4324;24;Anita Garibaldi
+4325;24;Anitápolis
+4326;24;Antônio Carlos
+4327;24;Apiúna
+4328;24;Arabutã
+4329;24;Araquari
+4330;24;Araranguá
+4331;24;Armazém
+4332;24;Arroio Trinta
+4333;24;Arvoredo
+4334;24;Ascurra
+4335;24;Atalanta
+4336;24;Aurora
+4337;24;Balneário Arroio do Silva
+4338;24;Balneário Camboriú
+4339;24;Balneário Barra do Sul
+4340;24;Balneário Gaivota
+4341;24;Bandeirante
+4342;24;Barra Bonita
+4343;24;Barra Velha
+4344;24;Bela Vista do Toldo
+4345;24;Belmonte
+4346;24;Benedito Novo
+4347;24;Biguaçu
+4348;24;Blumenau
+4349;24;Bocaina do Sul
+4350;24;Bombinhas
+4351;24;Bom Jardim da Serra
+4352;24;Bom Jesus
+4353;24;Bom Jesus do Oeste
+4354;24;Bom Retiro
+4355;24;Botuverá
+4356;24;Braço do Norte
+4357;24;Braço do Trombudo
+4358;24;Brunópolis
+4359;24;Brusque
+4360;24;Caçador
+4361;24;Caibi
+4362;24;Calmon
+4363;24;Camboriú
+4364;24;Capão Alto
+4365;24;Campo Alegre
+4366;24;Campo Belo do Sul
+4367;24;Campo Erê
+4368;24;Campos Novos
+4369;24;Canelinha
+4370;24;Canoinhas
+4371;24;Capinzal
+4372;24;Capivari de Baixo
+4373;24;Catanduvas
+4374;24;Caxambu do Sul
+4375;24;Celso Ramos
+4376;24;Cerro Negro
+4377;24;Chapadão do Lageado
+4378;24;Chapecó
+4379;24;Cocal do Sul
+4380;24;Concórdia
+4381;24;Cordilheira Alta
+4382;24;Coronel Freitas
+4383;24;Coronel Martins
+4384;24;Corupá
+4385;24;Correia Pinto
+4386;24;Criciúma
+4387;24;Cunha Porã
+4388;24;Cunhataí
+4389;24;Curitibanos
+4390;24;Descanso
+4391;24;Dionísio Cerqueira
+4392;24;Dona Emma
+4393;24;Doutor Pedrinho
+4394;24;Entre Rios
+4395;24;Ermo
+4396;24;Erval Velho
+4397;24;Faxinal Dos Guedes
+4398;24;Flor do Sertão
+4399;24;Florianópolis
+4400;24;Formosa do Sul
+4401;24;Forquilhinha
+4402;24;Fraiburgo
+4403;24;Frei Rogério
+4404;24;Galvão
+4405;24;Garopaba
+4406;24;Garuva
+4407;24;Gaspar
+4408;24;Governador Celso Ramos
+4409;24;Grão Pará
+4410;24;Gravatal
+4411;24;Guabiruba
+4412;24;Guaraciaba
+4413;24;Guaramirim
+4414;24;Guarujá do Sul
+4415;24;Guatambú
+4416;24;Herval D´oeste
+4417;24;Ibiam
+4418;24;Ibicaré
+4419;24;Ibirama
+4420;24;Içara
+4421;24;Ilhota
+4422;24;Imaruí
+4423;24;Imbituba
+4424;24;Imbuia
+4425;24;Indaial
+4426;24;Iomerê
+4427;24;Ipira
+4428;24;Iporã do Oeste
+4429;24;Ipuaçu
+4430;24;Ipumirim
+4431;24;Iraceminha
+4432;24;Irani
+4433;24;Irati
+4434;24;Irineópolis
+4435;24;Itá
+4436;24;Itaiópolis
+4437;24;Itajaí
+4438;24;Itapema
+4439;24;Itapiranga
+4440;24;Itapoá
+4441;24;Ituporanga
+4442;24;Jaborá
+4443;24;Jacinto Machado
+4444;24;Jaguaruna
+4445;24;Jaraguá do Sul
+4446;24;Jardinópolis
+4447;24;Joaçaba
+4448;24;Joinville
+4449;24;José Boiteux
+4450;24;Jupiá
+4451;24;Lacerdópolis
+4452;24;Lages
+4453;24;Laguna
+4454;24;Lajeado Grande
+4455;24;Laurentino
+4456;24;Lauro Muller
+4457;24;Lebon Régis
+4458;24;Leoberto Leal
+4459;24;Lindóia do Sul
+4460;24;Lontras
+4461;24;Luiz Alves
+4462;24;Luzerna
+4463;24;Macieira
+4464;24;Mafra
+4465;24;Major Gercino
+4466;24;Major Vieira
+4467;24;Maracajá
+4468;24;Maravilha
+4469;24;Marema
+4470;24;Massaranduba
+4471;24;Matos Costa
+4472;24;Meleiro
+4473;24;Mirim Doce
+4474;24;Modelo
+4475;24;Mondaí
+4476;24;Monte Carlo
+4477;24;Monte Castelo
+4478;24;Morro da Fumaça
+4479;24;Morro Grande
+4480;24;Navegantes
+4481;24;Nova Erechim
+4482;24;Nova Itaberaba
+4483;24;Nova Trento
+4484;24;Nova Veneza
+4485;24;Novo Horizonte
+4486;24;Orleans
+4487;24;Otacílio Costa
+4488;24;Ouro
+4489;24;Ouro Verde
+4490;24;Paial
+4491;24;Painel
+4492;24;Palhoça
+4493;24;Palma Sola
+4494;24;Palmeira
+4495;24;Palmitos
+4496;24;Papanduva
+4497;24;Paraíso
+4498;24;Passo de Torres
+4499;24;Passos Maia
+4500;24;Paulo Lopes
+4501;24;Pedras Grandes
+4502;24;Penha
+4503;24;Peritiba
+4504;24;Pescaria Brava
+4505;24;Petrolândia
+4506;24;Piçarras
+4507;24;Pinhalzinho
+4508;24;Pinheiro Preto
+4509;24;Piratuba
+4510;24;Planalto Alegre
+4511;24;Pomerode
+4512;24;Ponte Alta
+4513;24;Ponte Alta do Norte
+4514;24;Ponte Serrada
+4515;24;Porto Belo
+4516;24;Porto União
+4517;24;Pouso Redondo
+4518;24;Praia Grande
+4519;24;Presidente Castelo Branco
+4520;24;Presidente Getúlio
+4521;24;Presidente Nereu
+4522;24;Princesa
+4523;24;Quilombo
+4524;24;Rancho Queimado
+4525;24;Rio Das Antas
+4526;24;Rio do Campo
+4527;24;Rio do Oeste
+4528;24;Rio Dos Cedros
+4529;24;Rio do Sul
+4530;24;Rio Fortuna
+4531;24;Rio Negrinho
+4532;24;Rio Rufino
+4533;24;Riqueza
+4534;24;Rodeio
+4535;24;Romelândia
+4536;24;Salete
+4537;24;Saltinho
+4538;24;Salto Veloso
+4539;24;Sangão
+4540;24;Santa Cecília
+4541;24;Santa Helena
+4542;24;Santa Rosa de Lima
+4543;24;Santa Rosa do Sul
+4544;24;Santa Terezinha
+4545;24;Santa Terezinha do Progresso
+4546;24;Santiago do Sul
+4547;24;Santo Amaro da Imperatriz
+4548;24;São Bernardino
+4549;24;São Bento do Sul
+4550;24;São Bonifácio
+4551;24;São Carlos
+4552;24;São Cristovão do Sul
+4553;24;São Domingos
+4554;24;São Francisco do Sul
+4555;24;São João do Oeste
+4556;24;São João Batista
+4557;24;São João do Itaperiú
+4558;24;São João do Sul
+4559;24;São Joaquim
+4560;24;São José
+4561;24;São José do Cedro
+4562;24;São José do Cerrito
+4563;24;São Lourenço do Oeste
+4564;24;São Ludgero
+4565;24;São Martinho
+4566;24;São Miguel da Boa Vista
+4567;24;São Miguel do Oeste
+4568;24;São Pedro de Alcântara
+4569;24;Saudades
+4570;24;Schroeder
+4571;24;Seara
+4572;24;Serra Alta
+4573;24;Siderópolis
+4574;24;Sombrio
+4575;24;Sul Brasil
+4576;24;Taió
+4577;24;Tangará
+4578;24;Tigrinhos
+4579;24;Tijucas
+4580;24;Timbé do Sul
+4581;24;Timbó
+4582;24;Timbó Grande
+4583;24;Três Barras
+4584;24;Treviso
+4585;24;Treze de Maio
+4586;24;Treze Tílias
+4587;24;Trombudo Central
+4588;24;Tubarão
+4589;24;Tunápolis
+4590;24;Turvo
+4591;24;União do Oeste
+4592;24;Urubici
+4593;24;Urupema
+4594;24;Urussanga
+4595;24;Vargeão
+4596;24;Vargem
+4597;24;Vargem Bonita
+4598;24;Vidal Ramos
+4599;24;Videira
+4600;24;Vitor Meireles
+4601;24;Witmarsum
+4602;24;Xanxerê
+4603;24;Xavantina
+4604;24;Xaxim
+4605;24;Zortéa
+4606;24;Balneário Rincão
+4607;23;Aceguá
+4608;23;Água Santa
+4609;23;Agudo
+4610;23;Ajuricaba
+4611;23;Alecrim
+4612;23;Alegrete
+4613;23;Alegria
+4614;23;Almirante Tamandaré do Sul
+4615;23;Alpestre
+4616;23;Alto Alegre
+4617;23;Alto Feliz
+4618;23;Alvorada
+4619;23;Amaral Ferrador
+4620;23;Ametista do Sul
+4621;23;André da Rocha
+4622;23;Anta Gorda
+4623;23;Antônio Prado
+4624;23;Arambaré
+4625;23;Araricá
+4626;23;Aratiba
+4627;23;Arroio do Meio
+4628;23;Arroio do Sal
+4629;23;Arroio do Padre
+4630;23;Arroio Dos Ratos
+4631;23;Arroio do Tigre
+4632;23;Arroio Grande
+4633;23;Arvorezinha
+4634;23;Augusto Pestana
+4635;23;Áurea
+4636;23;Bagé
+4637;23;Balneário Pinhal
+4638;23;Barão
+4639;23;Barão de Cotegipe
+4640;23;Barão do Triunfo
+4641;23;Barracão
+4642;23;Barra do Guarita
+4643;23;Barra do Quaraí
+4644;23;Barra do Ribeiro
+4645;23;Barra do Rio Azul
+4646;23;Barra Funda
+4647;23;Barros Cassal
+4648;23;Benjamin Constant do Sul
+4649;23;Bento Gonçalves
+4650;23;Boa Vista Das Missões
+4651;23;Boa Vista do Buricá
+4652;23;Boa Vista do Cadeado
+4653;23;Boa Vista do Incra
+4654;23;Boa Vista do Sul
+4655;23;Bom Jesus
+4656;23;Bom Princípio
+4657;23;Bom Progresso
+4658;23;Bom Retiro do Sul
+4659;23;Boqueirão do Leão
+4660;23;Bossoroca
+4661;23;Bozano
+4662;23;Braga
+4663;23;Brochier
+4664;23;Butiá
+4665;23;Caçapava do Sul
+4666;23;Cacequi
+4667;23;Cachoeira do Sul
+4668;23;Cachoeirinha
+4669;23;Cacique Doble
+4670;23;Caibaté
+4671;23;Caiçara
+4672;23;Camaquã
+4673;23;Camargo
+4674;23;Cambará do Sul
+4675;23;Campestre da Serra
+4676;23;Campina Das Missões
+4677;23;Campinas do Sul
+4678;23;Campo Bom
+4679;23;Campo Novo
+4680;23;Campos Borges
+4681;23;Candelária
+4682;23;Cândido Godói
+4683;23;Candiota
+4684;23;Canela
+4685;23;Canguçu
+4686;23;Canoas
+4687;23;Canudos do Vale
+4688;23;Capão Bonito do Sul
+4689;23;Capão da Canoa
+4690;23;Capão do Cipó
+4691;23;Capão do Leão
+4692;23;Capivari do Sul
+4693;23;Capela de Santana
+4694;23;Capitão
+4695;23;Carazinho
+4696;23;Caraá
+4697;23;Carlos Barbosa
+4698;23;Carlos Gomes
+4699;23;Casca
+4700;23;Caseiros
+4701;23;Catuípe
+4702;23;Caxias do Sul
+4703;23;Centenário
+4704;23;Cerrito
+4705;23;Cerro Branco
+4706;23;Cerro Grande
+4707;23;Cerro Grande do Sul
+4708;23;Cerro Largo
+4709;23;Chapada
+4710;23;Charqueadas
+4711;23;Charrua
+4712;23;Chiapetta
+4713;23;Chuí
+4714;23;Chuvisca
+4715;23;Cidreira
+4716;23;Ciríaco
+4717;23;Colinas
+4718;23;Colorado
+4719;23;Condor
+4720;23;Constantina
+4721;23;Coqueiro Baixo
+4722;23;Coqueiros do Sul
+4723;23;Coronel Barros
+4724;23;Coronel Bicaco
+4725;23;Coronel Pilar
+4726;23;Cotiporã
+4727;23;Coxilha
+4728;23;Crissiumal
+4729;23;Cristal
+4730;23;Cristal do Sul
+4731;23;Cruz Alta
+4732;23;Cruzaltense
+4733;23;Cruzeiro do Sul
+4734;23;David Canabarro
+4735;23;Derrubadas
+4736;23;Dezesseis de Novembro
+4737;23;Dilermando de Aguiar
+4738;23;Dois Irmãos
+4739;23;Dois Irmãos Das Missões
+4740;23;Dois Lajeados
+4741;23;Dom Feliciano
+4742;23;Dom Pedro de Alcântara
+4743;23;Dom Pedrito
+4744;23;Dona Francisca
+4745;23;Doutor Maurício Cardoso
+4746;23;Doutor Ricardo
+4747;23;Eldorado do Sul
+4748;23;Encantado
+4749;23;Encruzilhada do Sul
+4750;23;Engenho Velho
+4751;23;Entre-ijuís
+4752;23;Entre Rios do Sul
+4753;23;Erebango
+4754;23;Erechim
+4755;23;Ernestina
+4756;23;Herval
+4757;23;Erval Grande
+4758;23;Erval Seco
+4759;23;Esmeralda
+4760;23;Esperança do Sul
+4761;23;Espumoso
+4762;23;Estação
+4763;23;Estância Velha
+4764;23;Esteio
+4765;23;Estrela
+4766;23;Estrela Velha
+4767;23;Eugênio de Castro
+4768;23;Fagundes Varela
+4769;23;Farroupilha
+4770;23;Faxinal do Soturno
+4771;23;Faxinalzinho
+4772;23;Fazenda Vilanova
+4773;23;Feliz
+4774;23;Flores da Cunha
+4775;23;Floriano Peixoto
+4776;23;Fontoura Xavier
+4777;23;Formigueiro
+4778;23;Forquetinha
+4779;23;Fortaleza Dos Valos
+4780;23;Frederico Westphalen
+4781;23;Garibaldi
+4782;23;Garruchos
+4783;23;Gaurama
+4784;23;General Câmara
+4785;23;Gentil
+4786;23;Getúlio Vargas
+4787;23;Giruá
+4788;23;Glorinha
+4789;23;Gramado
+4790;23;Gramado Dos Loureiros
+4791;23;Gramado Xavier
+4792;23;Gravataí
+4793;23;Guabiju
+4794;23;Guaíba
+4795;23;Guaporé
+4796;23;Guarani Das Missões
+4797;23;Harmonia
+4798;23;Herveiras
+4799;23;Horizontina
+4800;23;Hulha Negra
+4801;23;Humaitá
+4802;23;Ibarama
+4803;23;Ibiaçá
+4804;23;Ibiraiaras
+4805;23;Ibirapuitã
+4806;23;Ibirubá
+4807;23;Igrejinha
+4808;23;Ijuí
+4809;23;Ilópolis
+4810;23;Imbé
+4811;23;Imigrante
+4812;23;Independência
+4813;23;Inhacorá
+4814;23;Ipê
+4815;23;Ipiranga do Sul
+4816;23;Iraí
+4817;23;Itaara
+4818;23;Itacurubi
+4819;23;Itapuca
+4820;23;Itaqui
+4821;23;Itati
+4822;23;Itatiba do Sul
+4823;23;Ivorá
+4824;23;Ivoti
+4825;23;Jaboticaba
+4826;23;Jacuizinho
+4827;23;Jacutinga
+4828;23;Jaguarão
+4829;23;Jaguari
+4830;23;Jaquirana
+4831;23;Jari
+4832;23;Jóia
+4833;23;Júlio de Castilhos
+4834;23;Lagoa Bonita do Sul
+4835;23;Lagoão
+4836;23;Lagoa Dos Três Cantos
+4837;23;Lagoa Vermelha
+4838;23;Lajeado
+4839;23;Lajeado do Bugre
+4840;23;Lavras do Sul
+4841;23;Liberato Salzano
+4842;23;Lindolfo Collor
+4843;23;Linha Nova
+4844;23;Machadinho
+4845;23;Maçambara
+4846;23;Mampituba
+4847;23;Manoel Viana
+4848;23;Maquiné
+4849;23;Maratá
+4850;23;Marau
+4851;23;Marcelino Ramos
+4852;23;Mariana Pimentel
+4853;23;Mariano Moro
+4854;23;Marques de Souza
+4855;23;Mata
+4856;23;Mato Castelhano
+4857;23;Mato Leitão
+4858;23;Mato Queimado
+4859;23;Maximiliano de Almeida
+4860;23;Minas do Leão
+4861;23;Miraguaí
+4862;23;Montauri
+4863;23;Monte Alegre Dos Campos
+4864;23;Monte Belo do Sul
+4865;23;Montenegro
+4866;23;Mormaço
+4867;23;Morrinhos do Sul
+4868;23;Morro Redondo
+4869;23;Morro Reuter
+4870;23;Mostardas
+4871;23;Muçum
+4872;23;Muitos Capões
+4873;23;Muliterno
+4874;23;Não-me-toque
+4875;23;Nicolau Vergueiro
+4876;23;Nonoai
+4877;23;Nova Alvorada
+4878;23;Nova Araçá
+4879;23;Nova Bassano
+4880;23;Nova Boa Vista
+4881;23;Nova Bréscia
+4882;23;Nova Candelária
+4883;23;Nova Esperança do Sul
+4884;23;Nova Hartz
+4885;23;Nova Pádua
+4886;23;Nova Palma
+4887;23;Nova Petrópolis
+4888;23;Nova Prata
+4889;23;Nova Ramada
+4890;23;Nova Roma do Sul
+4891;23;Nova Santa Rita
+4892;23;Novo Cabrais
+4893;23;Novo Hamburgo
+4894;23;Novo Machado
+4895;23;Novo Tiradentes
+4896;23;Novo Xingu
+4897;23;Novo Barreiro
+4898;23;Osório
+4899;23;Paim Filho
+4900;23;Palmares do Sul
+4901;23;Palmeira Das Missões
+4902;23;Palmitinho
+4903;23;Panambi
+4904;23;Pantano Grande
+4905;23;Paraí
+4906;23;Paraíso do Sul
+4907;23;Pareci Novo
+4908;23;Parobé
+4909;23;Passa Sete
+4910;23;Passo do Sobrado
+4911;23;Passo Fundo
+4912;23;Paulo Bento
+4913;23;Paverama
+4914;23;Pedras Altas
+4915;23;Pedro Osório
+4916;23;Pejuçara
+4917;23;Pelotas
+4918;23;Picada Café
+4919;23;Pinhal
+4920;23;Pinhal da Serra
+4921;23;Pinhal Grande
+4922;23;Pinheirinho do Vale
+4923;23;Pinheiro Machado
+4924;23;Pinto Bandeira
+4925;23;Pirapó
+4926;23;Piratini
+4927;23;Planalto
+4928;23;Poço Das Antas
+4929;23;Pontão
+4930;23;Ponte Preta
+4931;23;Portão
+4932;23;Porto Alegre
+4933;23;Porto Lucena
+4934;23;Porto Mauá
+4935;23;Porto Vera Cruz
+4936;23;Porto Xavier
+4937;23;Pouso Novo
+4938;23;Presidente Lucena
+4939;23;Progresso
+4940;23;Protásio Alves
+4941;23;Putinga
+4942;23;Quaraí
+4943;23;Quatro Irmãos
+4944;23;Quevedos
+4945;23;Quinze de Novembro
+4946;23;Redentora
+4947;23;Relvado
+4948;23;Restinga Seca
+4949;23;Rio Dos Índios
+4950;23;Rio Grande
+4951;23;Rio Pardo
+4952;23;Riozinho
+4953;23;Roca Sales
+4954;23;Rodeio Bonito
+4955;23;Rolador
+4956;23;Rolante
+4957;23;Ronda Alta
+4958;23;Rondinha
+4959;23;Roque Gonzales
+4960;23;Rosário do Sul
+4961;23;Sagrada Família
+4962;23;Saldanha Marinho
+4963;23;Salto do Jacuí
+4964;23;Salvador Das Missões
+4965;23;Salvador do Sul
+4966;23;Sananduva
+4967;23;Santa Bárbara do Sul
+4968;23;Santa Cecília do Sul
+4969;23;Santa Clara do Sul
+4970;23;Santa Cruz do Sul
+4971;23;Santa Maria
+4972;23;Santa Maria do Herval
+4973;23;Santa Margarida do Sul
+4974;23;Santana da Boa Vista
+4975;23;Santana do Livramento
+4976;23;Santa Rosa
+4977;23;Santa Tereza
+4978;23;Santa Vitória do Palmar
+4979;23;Santiago
+4980;23;Santo Ângelo
+4981;23;Santo Antônio do Palma
+4982;23;Santo Antônio da Patrulha
+4983;23;Santo Antônio Das Missões
+4984;23;Santo Antônio do Planalto
+4985;23;Santo Augusto
+4986;23;Santo Cristo
+4987;23;Santo Expedito do Sul
+4988;23;São Borja
+4989;23;São Domingos do Sul
+4990;23;São Francisco de Assis
+4991;23;São Francisco de Paula
+4992;23;São Gabriel
+4993;23;São Jerônimo
+4994;23;São João da Urtiga
+4995;23;São João do Polêsine
+4996;23;São Jorge
+4997;23;São José Das Missões
+4998;23;São José do Herval
+4999;23;São José do Hortêncio
+5000;23;São José do Inhacorá
+5001;23;São José do Norte
+5002;23;São José do Ouro
+5003;23;São José do Sul
+5004;23;São José Dos Ausentes
+5005;23;São Leopoldo
+5006;23;São Lourenço do Sul
+5007;23;São Luiz Gonzaga
+5008;23;São Marcos
+5009;23;São Martinho
+5010;23;São Martinho da Serra
+5011;23;São Miguel Das Missões
+5012;23;São Nicolau
+5013;23;São Paulo Das Missões
+5014;23;São Pedro da Serra
+5015;23;São Pedro Das Missões
+5016;23;São Pedro do Butiá
+5017;23;São Pedro do Sul
+5018;23;São Sebastião do Caí
+5019;23;São Sepé
+5020;23;São Valentim
+5021;23;São Valentim do Sul
+5022;23;São Valério do Sul
+5023;23;São Vendelino
+5024;23;São Vicente do Sul
+5025;23;Sapiranga
+5026;23;Sapucaia do Sul
+5027;23;Sarandi
+5028;23;Seberi
+5029;23;Sede Nova
+5030;23;Segredo
+5031;23;Selbach
+5032;23;Senador Salgado Filho
+5033;23;Sentinela do Sul
+5034;23;Serafina Corrêa
+5035;23;Sério
+5036;23;Sertão
+5037;23;Sertão Santana
+5038;23;Sete de Setembro
+5039;23;Severiano de Almeida
+5040;23;Silveira Martins
+5041;23;Sinimbu
+5042;23;Sobradinho
+5043;23;Soledade
+5044;23;Tabaí
+5045;23;Tapejara
+5046;23;Tapera
+5047;23;Tapes
+5048;23;Taquara
+5049;23;Taquari
+5050;23;Taquaruçu do Sul
+5051;23;Tavares
+5052;23;Tenente Portela
+5053;23;Terra de Areia
+5054;23;Teutônia
+5055;23;Tio Hugo
+5056;23;Tiradentes do Sul
+5057;23;Toropi
+5058;23;Torres
+5059;23;Tramandaí
+5060;23;Travesseiro
+5061;23;Três Arroios
+5062;23;Três Cachoeiras
+5063;23;Três Coroas
+5064;23;Três de Maio
+5065;23;Três Forquilhas
+5066;23;Três Palmeiras
+5067;23;Três Passos
+5068;23;Trindade do Sul
+5069;23;Triunfo
+5070;23;Tucunduva
+5071;23;Tunas
+5072;23;Tupanci do Sul
+5073;23;Tupanciretã
+5074;23;Tupandi
+5075;23;Tuparendi
+5076;23;Turuçu
+5077;23;Ubiretama
+5078;23;União da Serra
+5079;23;Unistalda
+5080;23;Uruguaiana
+5081;23;Vacaria
+5082;23;Vale Verde
+5083;23;Vale do Sol
+5084;23;Vale Real
+5085;23;Vanini
+5086;23;Venâncio Aires
+5087;23;Vera Cruz
+5088;23;Veranópolis
+5089;23;Vespasiano Correa
+5090;23;Viadutos
+5091;23;Viamão
+5092;23;Vicente Dutra
+5093;23;Victor Graeff
+5094;23;Vila Flores
+5095;23;Vila Lângaro
+5096;23;Vila Maria
+5097;23;Vila Nova do Sul
+5098;23;Vista Alegre
+5099;23;Vista Alegre do Prata
+5100;23;Vista Gaúcha
+5101;23;Vitória Das Missões
+5102;23;Westfalia
+5103;23;Xangri-lá
+5104;12;Água Clara
+5105;12;Alcinópolis
+5106;12;Amambaí
+5107;12;Anastácio
+5108;12;Anaurilândia
+5109;12;Angélica
+5110;12;Antônio João
+5111;12;Aparecida do Taboado
+5112;12;Aquidauana
+5113;12;Aral Moreira
+5114;12;Bandeirantes
+5115;12;Bataguassu
+5116;12;Batayporã
+5117;12;Bela Vista
+5118;12;Bodoquena
+5119;12;Bonito
+5120;12;Brasilândia
+5121;12;Caarapó
+5122;12;Camapuã
+5123;12;Campo Grande
+5124;12;Caracol
+5125;12;Cassilândia
+5126;12;Chapadão do Sul
+5127;12;Corguinho
+5128;12;Coronel Sapucaia
+5129;12;Corumbá
+5130;12;Costa Rica
+5131;12;Coxim
+5132;12;Deodápolis
+5133;12;Dois Irmãos do Buriti
+5134;12;Douradina
+5135;12;Dourados
+5136;12;Eldorado
+5137;12;Fátima do Sul
+5138;12;Figueirão
+5139;12;Glória de Dourados
+5140;12;Guia Lopes da Laguna
+5141;12;Iguatemi
+5142;12;Inocência
+5143;12;Itaporã
+5144;12;Itaquiraí
+5145;12;Ivinhema
+5146;12;Japorã
+5147;12;Jaraguari
+5148;12;Jardim
+5149;12;Jateí
+5150;12;Juti
+5151;12;Ladário
+5152;12;Laguna Carapã
+5153;12;Maracaju
+5154;12;Miranda
+5155;12;Mundo Novo
+5156;12;Naviraí
+5157;12;Nioaque
+5158;12;Nova Alvorada do Sul
+5159;12;Nova Andradina
+5160;12;Novo Horizonte do Sul
+5161;12;Paraíso das Águas
+5162;12;Paranaíba
+5163;12;Paranhos
+5164;12;Pedro Gomes
+5165;12;Ponta Porã
+5166;12;Porto Murtinho
+5167;12;Ribas do Rio Pardo
+5168;12;Rio Brilhante
+5169;12;Rio Negro
+5170;12;Rio Verde de Mato Grosso
+5171;12;Rochedo
+5172;12;Santa Rita do Pardo
+5173;12;São Gabriel do Oeste
+5174;12;Sete Quedas
+5175;12;Selvíria
+5176;12;Sidrolândia
+5177;12;Sonora
+5178;12;Tacuru
+5179;12;Taquarussu
+5180;12;Terenos
+5181;12;Três Lagoas
+5182;12;Vicentina
+5183;13;Acorizal
+5184;13;Água Boa
+5185;13;Alta Floresta
+5186;13;Alto Araguaia
+5187;13;Alto Boa Vista
+5188;13;Alto Garças
+5189;13;Alto Paraguai
+5190;13;Alto Taquari
+5191;13;Apiacás
+5192;13;Araguaiana
+5193;13;Araguainha
+5194;13;Araputanga
+5195;13;Arenápolis
+5196;13;Aripuanã
+5197;13;Barão de Melgaço
+5198;13;Barra do Bugres
+5199;13;Barra do Garças
+5200;13;Bom Jesus do Araguaia
+5201;13;Brasnorte
+5202;13;Cáceres
+5203;13;Campinápolis
+5204;13;Campo Novo do Parecis
+5205;13;Campo Verde
+5206;13;Campos de Júlio
+5207;13;Canabrava do Norte
+5208;13;Canarana
+5209;13;Carlinda
+5210;13;Castanheira
+5211;13;Chapada Dos Guimarães
+5212;13;Cláudia
+5213;13;Cocalinho
+5214;13;Colíder
+5215;13;Colniza
+5216;13;Comodoro
+5217;13;Confresa
+5218;13;Conquista D´oeste
+5219;13;Cotriguaçu
+5220;13;Cuiabá
+5221;13;Curvelândia
+5222;13;Denise
+5223;13;Diamantino
+5224;13;Dom Aquino
+5225;13;Feliz Natal
+5226;13;Figueirópolis D´oeste
+5227;13;Gaúcha do Norte
+5228;13;General Carneiro
+5229;13;Glória D´oeste
+5230;13;Guarantã do Norte
+5231;13;Guiratinga
+5232;13;Indiavaí
+5233;13;Ipiranga do Norte
+5234;13;Itanhangá
+5235;13;Itaúba
+5236;13;Itiquira
+5237;13;Jaciara
+5238;13;Jangada
+5239;13;Jauru
+5240;13;Juara
+5241;13;Juína
+5242;13;Juruena
+5243;13;Juscimeira
+5244;13;Lambari D´oeste
+5245;13;Lucas do Rio Verde
+5246;13;Luciára
+5247;13;Vila Bela da Santíssima Trindade
+5248;13;Marcelândia
+5249;13;Matupá
+5250;13;Mirassol D´oeste
+5251;13;Nobres
+5252;13;Nortelândia
+5253;13;Nossa Senhora do Livramento
+5254;13;Nova Bandeirantes
+5255;13;Nova Nazaré
+5256;13;Nova Lacerda
+5257;13;Nova Santa Helena
+5258;13;Nova Brasilândia
+5259;13;Nova Canaã do Norte
+5260;13;Nova Mutum
+5261;13;Nova Olímpia
+5262;13;Nova Ubiratã
+5263;13;Nova Xavantina
+5264;13;Novo Mundo
+5265;13;Novo Horizonte do Norte
+5266;13;Novo São Joaquim
+5267;13;Paranaíta
+5268;13;Paranatinga
+5269;13;Novo Santo Antônio
+5270;13;Pedra Preta
+5271;13;Peixoto de Azevedo
+5272;13;Planalto da Serra
+5273;13;Poconé
+5274;13;Pontal do Araguaia
+5275;13;Ponte Branca
+5276;13;Pontes e Lacerda
+5277;13;Porto Alegre do Norte
+5278;13;Porto Dos Gaúchos
+5279;13;Porto Esperidião
+5280;13;Porto Estrela
+5281;13;Poxoréo
+5282;13;Primavera do Leste
+5283;13;Querência
+5284;13;São José Dos Quatro Marcos
+5285;13;Reserva do Cabaçal
+5286;13;Ribeirão Cascalheira
+5287;13;Ribeirãozinho
+5288;13;Rio Branco
+5289;13;Santa Carmem
+5290;13;Santo Afonso
+5291;13;São José do Povo
+5292;13;São José do Rio Claro
+5293;13;São José do Xingu
+5294;13;São Pedro da Cipa
+5295;13;Rondolândia
+5296;13;Rondonópolis
+5297;13;Rosário Oeste
+5298;13;Santa Cruz do Xingu
+5299;13;Salto do Céu
+5300;13;Santa Rita do Trivelato
+5301;13;Santa Terezinha
+5302;13;Santo Antônio do Leste
+5303;13;Santo Antônio do Leverger
+5304;13;São Félix do Araguaia
+5305;13;Sapezal
+5306;13;Serra Nova Dourada
+5307;13;Sinop
+5308;13;Sorriso
+5309;13;Tabaporã
+5310;13;Tangará da Serra
+5311;13;Tapurah
+5312;13;Terra Nova do Norte
+5313;13;Tesouro
+5314;13;Torixoréu
+5315;13;União do Sul
+5316;13;Vale de São Domingos
+5317;13;Várzea Grande
+5318;13;Vera
+5319;13;Vila Rica
+5320;13;Nova Guarita
+5321;13;Nova Marilândia
+5322;13;Nova Maringá
+5323;13;Nova Monte Verde
+5324;9;Abadia de Goiás
+5325;9;Abadiânia
+5326;9;Acreúna
+5327;9;Adelândia
+5328;9;Água Fria de Goiás
+5329;9;Água Limpa
+5330;9;Águas Lindas de Goiás
+5331;9;Alexânia
+5332;9;Aloândia
+5333;9;Alto Horizonte
+5334;9;Alto Paraíso de Goiás
+5335;9;Alvorada do Norte
+5336;9;Amaralina
+5337;9;Americano do Brasil
+5338;9;Amorinópolis
+5339;9;Anápolis
+5340;9;Anhanguera
+5341;9;Anicuns
+5342;9;Aparecida de Goiânia
+5343;9;Aparecida do Rio Doce
+5344;9;Aporé
+5345;9;Araçu
+5346;9;Aragarças
+5347;9;Aragoiânia
+5348;9;Araguapaz
+5349;9;Arenópolis
+5350;9;Aruanã
+5351;9;Aurilândia
+5352;9;Avelinópolis
+5353;9;Baliza
+5354;9;Barro Alto
+5355;9;Bela Vista de Goiás
+5356;9;Bom Jardim de Goiás
+5357;9;Bom Jesus de Goiás
+5358;9;Bonfinópolis
+5359;9;Bonópolis
+5360;9;Brazabrantes
+5361;9;Britânia
+5362;9;Buriti Alegre
+5363;9;Buriti de Goiás
+5364;9;Buritinópolis
+5365;9;Cabeceiras
+5366;9;Cachoeira Alta
+5367;9;Cachoeira de Goiás
+5368;9;Cachoeira Dourada
+5369;9;Caçu
+5370;9;Caiapônia
+5371;9;Caldas Novas
+5372;9;Caldazinha
+5373;9;Campestre de Goiás
+5374;9;Campinaçu
+5375;9;Campinorte
+5376;9;Campo Alegre de Goiás
+5377;9;Campo Limpo de Goiás
+5378;9;Campos Belos
+5379;9;Campos Verdes
+5380;9;Carmo do Rio Verde
+5381;9;Castelândia
+5382;9;Catalão
+5383;9;Caturaí
+5384;9;Cavalcante
+5385;9;Ceres
+5386;9;Cezarina
+5387;9;Chapadão do Céu
+5388;9;Cidade Ocidental
+5389;9;Cocalzinho de Goiás
+5390;9;Colinas do Sul
+5391;9;Córrego do Ouro
+5392;9;Corumbá de Goiás
+5393;9;Corumbaíba
+5394;9;Cristalina
+5395;9;Cristianópolis
+5396;9;Crixás
+5397;9;Cromínia
+5398;9;Cumari
+5399;9;Damianópolis
+5400;9;Damolândia
+5401;9;Davinópolis
+5402;9;Diorama
+5403;9;Doverlândia
+5404;9;Edealina
+5405;9;Edéia
+5406;9;Estrela do Norte
+5407;9;Faina
+5408;9;Fazenda Nova
+5409;9;Firminópolis
+5410;9;Flores de Goiás
+5411;9;Formosa
+5412;9;Formoso
+5413;9;Gameleira de Goiás
+5414;9;Divinópolis de Goiás
+5415;9;Goianápolis
+5416;9;Goiandira
+5417;9;Goianésia
+5418;9;Goiânia
+5419;9;Goianira
+5420;9;Goiás
+5421;9;Goiatuba
+5422;9;Gouvelândia
+5423;9;Guapó
+5424;9;Guaraíta
+5425;9;Guarani de Goiás
+5426;9;Guarinos
+5427;9;Heitoraí
+5428;9;Hidrolândia
+5429;9;Hidrolina
+5430;9;Iaciara
+5431;9;Inaciolândia
+5432;9;Indiara
+5433;9;Inhumas
+5434;9;Ipameri
+5435;9;Ipiranga de Goiás
+5436;9;Iporá
+5437;9;Israelândia
+5438;9;Itaberaí
+5439;9;Itaguari
+5440;9;Itaguaru
+5441;9;Itajá
+5442;9;Itapaci
+5443;9;Itapirapuã
+5444;9;Itapuranga
+5445;9;Itarumã
+5446;9;Itauçu
+5447;9;Itumbiara
+5448;9;Ivolândia
+5449;9;Jandaia
+5450;9;Jaraguá
+5451;9;Jataí
+5452;9;Jaupaci
+5453;9;Jesúpolis
+5454;9;Joviânia
+5455;9;Jussara
+5456;9;Lagoa Santa
+5457;9;Leopoldo de Bulhões
+5458;9;Luziânia
+5459;9;Mairipotaba
+5460;9;Mambaí
+5461;9;Mara Rosa
+5462;9;Marzagão
+5463;9;Matrinchã
+5464;9;Maurilândia
+5465;9;Mimoso de Goiás
+5466;9;Minaçu
+5467;9;Mineiros
+5468;9;Moiporá
+5469;9;Monte Alegre de Goiás
+5470;9;Montes Claros de Goiás
+5471;9;Montividiu
+5472;9;Montividiu do Norte
+5473;9;Morrinhos
+5474;9;Morro Agudo de Goiás
+5475;9;Mossâmedes
+5476;9;Mozarlândia
+5477;9;Mundo Novo
+5478;9;Mutunópolis
+5479;9;Nazário
+5480;9;Nerópolis
+5481;9;Niquelândia
+5482;9;Nova América
+5483;9;Nova Aurora
+5484;9;Nova Crixás
+5485;9;Nova Glória
+5486;9;Nova Iguaçu de Goiás
+5487;9;Nova Roma
+5488;9;Nova Veneza
+5489;9;Novo Brasil
+5490;9;Novo Gama
+5491;9;Novo Planalto
+5492;9;Orizona
+5493;9;Ouro Verde de Goiás
+5494;9;Ouvidor
+5495;9;Padre Bernardo
+5496;9;Palestina de Goiás
+5497;9;Palmeiras de Goiás
+5498;9;Palmelo
+5499;9;Palminópolis
+5500;9;Panamá
+5501;9;Paranaiguara
+5502;9;Paraúna
+5503;9;Perolândia
+5504;9;Petrolina de Goiás
+5505;9;Pilar de Goiás
+5506;9;Piracanjuba
+5507;9;Piranhas
+5508;9;Pirenópolis
+5509;9;Pires do Rio
+5510;9;Planaltina
+5511;9;Pontalina
+5512;9;Porangatu
+5513;9;Porteirão
+5514;9;Portelândia
+5515;9;Posse
+5516;9;Professor Jamil
+5517;9;Quirinópolis
+5518;9;Rialma
+5519;9;Rianápolis
+5520;9;Rio Quente
+5521;9;Rio Verde
+5522;9;Rubiataba
+5523;9;Sanclerlândia
+5524;9;Santa Bárbara de Goiás
+5525;9;Santa Cruz de Goiás
+5526;9;Santa fé de Goiás
+5527;9;Santa Helena de Goiás
+5528;9;Santa Isabel
+5529;9;Santa Rita do Araguaia
+5530;9;Santa Rita do Novo Destino
+5531;9;Santa Rosa de Goiás
+5532;9;Santa Tereza de Goiás
+5533;9;Santa Terezinha de Goiás
+5534;9;Santo Antônio da Barra
+5535;9;Santo Antônio de Goiás
+5536;9;Santo Antônio do Descoberto
+5537;9;São Domingos
+5538;9;São Francisco de Goiás
+5539;9;São João D´aliança
+5540;9;São João da Paraúna
+5541;9;São Luís de Montes Belos
+5542;9;São Luíz do Norte
+5543;9;São Miguel do Araguaia
+5544;9;São Miguel do Passa Quatro
+5545;9;São Patrício
+5546;9;São Simão
+5547;9;Senador Canedo
+5548;9;Serranópolis
+5549;9;Silvânia
+5550;9;Simolândia
+5551;9;Sítio D´abadia
+5552;9;Taquaral de Goiás
+5553;9;Teresina de Goiás
+5554;9;Terezópolis de Goiás
+5555;9;Três Ranchos
+5556;9;Trindade
+5557;9;Trombas
+5558;9;Turvânia
+5559;9;Turvelândia
+5560;9;Uirapuru
+5561;9;Uruaçu
+5562;9;Uruana
+5563;9;Urutaí
+5564;9;Valparaíso de Goiás
+5565;9;Varjão
+5566;9;Vianópolis
+5567;9;Vicentinópolis
+5568;9;Vila Boa
+5569;9;Vila Propício
+5570;7;Brasília
